@@ -1,0 +1,456 @@
+GO:0006355	4060	4	31.6200562324274	Underrepresented	4.17676597590016e-07	regulation of transcription, DNA-dependent
+GO:0006259	84	7	0.654208059981256	Overrepresented	0.00142407448918899	DNA metabolic process
+GO:0007126	137	8	1.06698219306467	Overrepresented	0.00420170127669977	meiosis
+GO:0000086	2	2	0.0155763823805061	Overrepresented	0.0195661682999254	G2/M transition of mitotic cell cycle
+GO:0042817	2	2	0.0155763823805061	Overrepresented	0.0195661682999254	pyridoxal metabolic process
+GO:0045876	2	2	0.0155763823805061	Overrepresented	0.0195661682999254	positive regulation of sister chromatid cohesion
+GO:0051304	2	2	0.0155763823805061	Overrepresented	0.0195661682999254	chromosome separation
+GO:0048015	13	3	0.10124648547329	Overrepresented	0.0407201392112109	phosphatidylinositol-mediated signaling
+GO:0051307	4	2	0.0311527647610122	Overrepresented	0.116193701649398	meiotic chromosome separation
+GO:1900109	4	2	0.0311527647610122	Overrepresented	0.116193701649398	regulation of histone H3-K9 dimethylation
+GO:0046854	79	5	0.615267104029991	Overrepresented	0.125601816749321	phosphatidylinositol phosphorylation
+GO:0009934	45	4	0.350468603561387	Overrepresented	0.134562621562791	regulation of meristem structural organization
+GO:0006302	96	5	0.747666354264292	Overrepresented	0.305923026929289	double-strand break repair
+GO:0009737	1254	1	9.76639175257732	Underrepresented	0.33279168484035	response to abscisic acid stimulus
+GO:0006163	7	2	0.0545173383317713	Overrepresented	0.400451316548814	purine nucleotide metabolic process
+GO:0043039	30	3	0.233645735707591	Overrepresented	0.524206829420405	tRNA aminoacylation
+GO:0006419	8	2	0.0623055295220244	Overrepresented	0.531199556779425	alanyl-tRNA aminoacylation
+GO:0006312	110	5	0.856701030927835	Overrepresented	0.56081746002862	mitotic recombination
+GO:0007346	69	4	0.53738519212746	Overrepresented	0.674629455336568	regulation of mitotic cell cycle
+GO:0006352	73	4	0.568537956888472	Overrepresented	0.829021114108373	DNA-dependent transcription, initiation
+GO:0008615	10	2	0.0778819119025305	Overrepresented	0.844996663379777	pyridoxine biosynthetic process
+GO:0006952	1116	1	8.6916213683224	Underrepresented	0.980572037610847	defense response
+GO:0032784	11	2	0.0856701030927835	Overrepresented	1.02749268542187	regulation of DNA-dependent transcription, elongation
+GO:0006414	81	4	0.630843486410497	Overrepresented	1.20730402297018	translational elongation
+GO:0055085	1061	1	8.26327085285848	Underrepresented	1.39671091425261	transmembrane transport
+GO:0000723	13	2	0.10124648547329	Overrepresented	1.4423216693185	telomere maintenance
+GO:0034613	14	2	0.109034676663543	Overrepresented	1.67412093843135	cellular protein localization
+GO:0007129	143	5	1.11371134020619	Overrepresented	1.72969994205855	synapsis
+GO:0045038	15	2	0.116822867853796	Overrepresented	1.92182613559098	protein import into chloroplast thylakoid membrane
+GO:0033044	208	6	1.61994376757263	Overrepresented	1.92970989024392	regulation of chromosome organization
+GO:0010363	1019	1	7.93616682286785	Underrepresented	2.00652232694809	regulation of plant-type hypersensitive response
+GO:0006612	1020	1	7.94395501405811	Underrepresented	2.00868595868669	protein targeting to membrane
+GO:0009611	1031	1	8.02962511715089	Underrepresented	2.0408773738992	response to wounding
+GO:0051276	51	3	0.397197750702905	Overrepresented	2.38506039241206	chromosome organization
+GO:0006333	101	4	0.786607310215558	Overrepresented	2.62620153186694	chromatin assembly or disassembly
+GO:0048768	18	2	0.140187441424555	Overrepresented	2.75780162371307	root hair cell tip growth
+GO:0006342	372	8	2.89720712277413	Overrepresented	2.954459281376	chromatin silencing
+GO:0032204	105	4	0.81776007497657	Overrepresented	3.00169859141837	regulation of telomere maintenance
+GO:0043247	105	4	0.81776007497657	Overrepresented	3.00169859141837	telomere maintenance in response to DNA damage
+GO:0009651	1845	5	14.3692127460169	Underrepresented	3.25502419687431	response to salt stress
+GO:0009933	233	6	1.81464854732896	Overrepresented	3.27589228693271	meristem structural organization
+GO:0032504	58	3	0.451715089034677	Overrepresented	3.39624631984282	multicellular organism reproduction
+GO:0042138	169	5	1.31620431115276	Overrepresented	3.42853702817039	meiotic DNA double-strand break formation
+GO:0000911	471	9	3.66823805060918	Overrepresented	3.91438607241578	cytokinesis by cell plate formation
+GO:0005975	911	1	7.09504217432052	Underrepresented	4.04924210891138	carbohydrate metabolic process
+GO:0000079	63	3	0.490656044985942	Overrepresented	4.24889821573306	regulation of cyclin-dependent protein serine/threonine kinase activity
+GO:0009903	24	2	0.186916588566073	Overrepresented	4.82518110703699	chloroplast avoidance movement
+GO:0006287	2	1	0.0155763823805061	Overrepresented	5.05005197670459	base-excision repair, gap-filling
+GO:0006297	2	1	0.0155763823805061	Overrepresented	5.05005197670459	nucleotide-excision repair, DNA gap filling
+GO:0010323	2	1	0.0155763823805061	Overrepresented	5.05005197670459	negative regulation of isopentenyl diphosphate biosynthetic process, mevalonate-independent pathway
+GO:0042548	2	1	0.0155763823805061	Overrepresented	5.05005197670459	regulation of photosynthesis, light reaction
+GO:0043137	2	1	0.0155763823805061	Overrepresented	5.05005197670459	DNA replication, removal of RNA primer
+GO:0045004	2	1	0.0155763823805061	Overrepresented	5.05005197670459	DNA replication proofreading
+GO:0050000	2	1	0.0155763823805061	Overrepresented	5.05005197670459	chromosome localization
+GO:1900426	2	1	0.0155763823805061	Overrepresented	5.05005197670459	positive regulation of defense response to bacterium
+GO:0007165	1328	3	10.342717900656	Underrepresented	5.46537961182226	signal transduction
+GO:0006810	883	1	6.87697282099344	Underrepresented	5.92818048857403	transport
+GO:0006310	130	4	1.0124648547329	Overrepresented	6.1418054412579	DNA recombination
+GO:0006260	270	6	2.10281162136832	Overrepresented	6.32744018288454	DNA replication
+GO:0007004	3	1	0.0233645735707591	Overrepresented	7.5458801034005	telomere maintenance via telomerase
+GO:0009202	3	1	0.0233645735707591	Overrepresented	7.5458801034005	deoxyribonucleoside triphosphate biosynthetic process
+GO:0016050	3	1	0.0233645735707591	Overrepresented	7.5458801034005	vesicle organization
+GO:0090305	3	1	0.0233645735707591	Overrepresented	7.5458801034005	nucleic acid phosphodiester bond hydrolysis
+GO:0045132	208	5	1.61994376757263	Overrepresented	7.69310713099227	meiotic chromosome segregation
+GO:0006468	2386	9	18.5826241799438	Underrepresented	7.77912542195579	protein phosphorylation
+GO:0009867	800	1	6.23055295220244	Underrepresented	8.1440290650818	jasmonic acid mediated signaling pathway
+GO:0010078	32	2	0.249222118088097	Overrepresented	8.32681456337969	maintenance of root meristem identity
+GO:0010267	296	6	2.3053045923149	Overrepresented	9.36851100494353	production of ta-siRNAs involved in RNA interference
+GO:0000724	151	4	1.17601686972821	Overrepresented	9.93310282997562	double-strand break repair via homologous recombination
+GO:0006231	4	1	0.0311527647610122	Overrepresented	10.0224429539783	dTMP biosynthetic process
+GO:0006545	4	1	0.0311527647610122	Overrepresented	10.0224429539783	glycine biosynthetic process
+GO:0031167	4	1	0.0311527647610122	Overrepresented	10.0224429539783	rRNA methylation
+GO:0045694	4	1	0.0311527647610122	Overrepresented	10.0224429539783	regulation of embryo sac egg cell differentiation
+GO:0046901	4	1	0.0311527647610122	Overrepresented	10.0224429539783	tetrahydrofolylpolyglutamate biosynthetic process
+GO:0010389	155	4	1.20716963448922	Overrepresented	10.7814375478701	regulation of G2/M transition of mitotic cell cycle
+GO:0006357	37	2	0.288163074039363	Overrepresented	10.9022167021748	regulation of transcription from RNA polymerase II promoter
+GO:0006139	91	3	0.708725398313027	Overrepresented	11.1051390492698	nucleobase-containing compound metabolic process
+GO:0010332	157	4	1.22274601686973	Overrepresented	11.2209874665864	response to gamma radiation
+GO:0031348	766	1	5.96575445173383	Underrepresented	11.6654388871663	negative regulation of defense response
+GO:0016572	159	4	1.23832239925023	Overrepresented	11.6708191472048	histone phosphorylation
+GO:0006261	234	5	1.82243673851921	Overrepresented	11.8823022819332	DNA-dependent DNA replication
+GO:0006401	5	1	0.0389409559512652	Overrepresented	12.4798890591551	RNA catabolic process
+GO:0010220	5	1	0.0389409559512652	Overrepresented	12.4798890591551	positive regulation of vernalization response
+GO:0016233	5	1	0.0389409559512652	Overrepresented	12.4798890591551	telomere capping
+GO:0016570	163	4	1.26947516401125	Overrepresented	12.6013831027649	histone modification
+GO:0006617	6	1	0.0467291471415183	Overrepresented	14.9183658058823	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition
+GO:0009306	45	2	0.350468603561387	Overrepresented	15.5676257558857	protein secretion
+GO:0006944	717	1	5.58413308341143	Underrepresented	16.5479352499214	cellular membrane fusion
+GO:0042023	257	5	2.00156513589503	Overrepresented	16.5663212874254	DNA endoreduplication
+GO:0035196	342	6	2.66356138706654	Overrepresented	16.8222066668192	production of miRNAs involved in gene silencing by miRNA
+GO:0030010	7	1	0.0545173383317713	Overrepresented	17.3380194461423	establishment of cell polarity
+GO:0045003	7	1	0.0545173383317713	Overrepresented	17.3380194461423	double-strand break repair via synthesis-dependent strand annealing
+GO:0006289	48	2	0.373833177132146	Overrepresented	17.4733386132473	nucleotide-excision repair
+GO:0007131	263	5	2.04829428303655	Overrepresented	17.9428115897253	reciprocal meiotic recombination
+GO:0055114	2341	10	18.2321555763824	Underrepresented	18.0791173170118	oxidation-reduction process
+GO:0009880	112	3	0.872277413308341	Overrepresented	18.5378728490145	embryonic pattern specification
+GO:0000003	50	2	0.389409559512652	Overrepresented	18.7872599958019	reproduction
+GO:0034660	187	4	1.45639175257732	Overrepresented	19.0491787169451	ncRNA metabolic process
+GO:0006730	51	2	0.397197750702905	Overrepresented	19.4567399988689	one-carbon metabolic process
+GO:0010182	272	5	2.11838800374883	Overrepresented	20.1278548507947	sugar mediated signaling pathway
+GO:0007067	118	3	0.919006560449859	Overrepresented	21.0013830531901	mitosis
+GO:0006121	9	1	0.0700937207122774	Overrepresented	22.1214367926553	mitochondrial electron transport, succinate to ubiquinone
+GO:0009234	9	1	0.0700937207122774	Overrepresented	22.1214367926553	menaquinone biosynthetic process
+GO:0010564	125	3	0.973523898781631	Overrepresented	24.0549392954932	regulation of cell cycle process
+GO:0016246	203	4	1.58100281162137	Overrepresented	24.1575717686051	RNA interference
+GO:0009862	688	1	5.3582755388941	Underrepresented	24.2216659488248	systemic acquired resistance, salicylic acid mediated signaling pathway
+GO:0006278	10	1	0.0778819119025305	Overrepresented	24.4854874062592	RNA-dependent DNA replication
+GO:0006809	10	1	0.0778819119025305	Overrepresented	24.4854874062592	nitric oxide biosynthetic process
+GO:0000226	379	6	2.9517244611059	Overrepresented	24.8671378925998	microtubule cytoskeleton organization
+GO:0006325	60	2	0.467291471415183	Overrepresented	25.8281778996269	chromatin organization
+GO:0006424	11	1	0.0856701030927835	Overrepresented	26.8312887452232	glutamyl-tRNA aminoacylation
+GO:0009257	11	1	0.0856701030927835	Overrepresented	26.8312887452232	10-formyltetrahydrofolate biosynthetic process
+GO:0051301	211	4	1.64330834114339	Overrepresented	26.9462558127227	cell division
+GO:0007062	299	5	2.32866916588566	Overrepresented	27.5406471216278	sister chromatid cohesion
+GO:0009063	12	1	0.0934582942830365	Overrepresented	29.1589815162936	cellular amino acid catabolic process
+GO:0045736	65	2	0.506232427366448	Overrepresented	29.6099144812907	negative regulation of cyclin-dependent protein serine/threonine kinase activity
+GO:0051567	443	7	3.4501686972821	Overrepresented	29.6464443716056	histone H3-K9 methylation
+GO:0050826	221	4	1.72119025304592	Overrepresented	30.6436801870548	response to freezing
+GO:0019915	222	4	1.72897844423618	Overrepresented	31.0260230904732	lipid storage
+GO:0042550	13	1	0.10124648547329	Overrepresented	31.4687053426292	photosystem I stabilization
+GO:0006457	779	10	6.06700093720712	Overrepresented	32.8982560038698	protein folding
+GO:0006511	619	1	4.82089034676664	Underrepresented	33.1323052047668	ubiquitin-dependent protein catabolic process
+GO:0016123	14	1	0.109034676663543	Overrepresented	33.7605987721358	xanthophyll biosynthetic process
+GO:0009902	230	4	1.7912839737582	Overrepresented	34.1648830165743	chloroplast relocation
+GO:0006396	330	5	2.57010309278351	Overrepresented	37.5782054852358	RNA processing
+GO:0016120	16	1	0.124611059044049	Overrepresented	38.2914433055816	carotene biosynthetic process
+GO:0016444	76	2	0.591902530459231	Overrepresented	38.4335176877323	somatic cell DNA recombination
+GO:0010200	1135	4	8.83959700093721	Underrepresented	40.2402606143062	response to chitin
+GO:0042542	511	7	3.97976569821931	Overrepresented	40.3263195290846	response to hydrogen peroxide
+GO:0009960	81	2	0.630843486410497	Overrepresented	42.6369302793647	endosperm development
+GO:0010449	18	1	0.140187441424555	Overrepresented	42.7526023075191	root meristem growth
+GO:0046685	82	2	0.63863167760075	Overrepresented	43.490013828518	response to arsenic-containing substance
+GO:0000278	398	6	3.09970009372071	Overrepresented	44.5862162566778	mitotic cell cycle
+GO:0006275	255	4	1.98598875351453	Overrepresented	44.837628233561	regulation of DNA replication
+GO:0031047	256	4	1.99377694470478	Overrepresented	45.2899299491237	gene silencing by RNA
+GO:0000165	575	1	4.4782099343955	Underrepresented	47.0634895411572	MAPK cascade
+GO:0046686	1310	15	10.2025304592315	Overrepresented	48.7767002148734	response to cadmium ion
+GO:0009616	267	4	2.07944704779756	Overrepresented	50.3833278908819	virus induced gene silencing
+GO:0000280	93	2	0.724301780693533	Overrepresented	53.1056665587684	nuclear division
+GO:0006614	23	1	0.17912839737582	Overrepresented	53.6076104708235	SRP-dependent cotranslational protein targeting to membrane
+GO:0006661	183	3	1.42523898781631	Overrepresented	55.5243624639368	phosphatidylinositol biosynthetic process
+GO:0042761	24	1	0.186916588566073	Overrepresented	55.7285893438156	very long-chain fatty acid biosynthetic process
+GO:0009414	888	3	6.9159137769447	Underrepresented	57.3515632775955	response to water deprivation
+GO:0051225	98	2	0.763242736644798	Overrepresented	57.5937386059084	spindle assembly
+GO:0009408	659	8	5.13241799437676	Overrepresented	58.5019806867237	response to heat
+GO:0042744	189	3	1.47196813495783	Overrepresented	59.2689662970825	hydrogen peroxide catabolic process
+GO:0042128	26	1	0.202492970946579	Overrepresented	59.92154831411	nitrate assimilation
+GO:0042372	26	1	0.202492970946579	Overrepresented	59.92154831411	phylloquinone biosynthetic process
+GO:0007005	27	1	0.210281162136832	Overrepresented	61.9937799831732	mitochondrion organization
+GO:0048767	504	1	3.92524835988754	Underrepresented	64.578238238877	root hair elongation
+GO:0009785	29	1	0.225857544517338	Overrepresented	66.0903693692177	blue light signaling pathway
+GO:0043069	525	1	4.08880037488285	Underrepresented	66.1004058341319	negative regulation of programmed cell death
+GO:0007267	200	3	1.55763823805061	Overrepresented	66.2998362299348	cell-cell signaling
+GO:0006629	534	1	4.15889409559513	Underrepresented	67.0348165868313	lipid metabolic process
+GO:0044262	31	1	0.241433926897844	Overrepresented	70.1239445876301	cellular carbohydrate metabolic process
+GO:0010440	113	2	0.880065604498594	Overrepresented	71.3560908483035	stomatal lineage progression
+GO:0009396	32	1	0.249222118088097	Overrepresented	72.1174050109611	folic acid-containing compound biosynthetic process
+GO:0009870	32	1	0.249222118088097	Overrepresented	72.1174050109611	defense response signaling pathway, resistance gene-dependent
+GO:0042787	32	1	0.249222118088097	Overrepresented	72.1174050109611	protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+GO:0045036	114	2	0.887853795688847	Overrepresented	72.2849053678175	protein targeting to chloroplast
+GO:0007015	115	2	0.8956419868791	Overrepresented	73.2147077082533	actin filament organization
+GO:0006108	33	1	0.257010309278351	Overrepresented	74.0954737790862	malate metabolic process
+GO:0006779	33	1	0.257010309278351	Overrepresented	74.0954737790862	porphyrin-containing compound biosynthetic process
+GO:0009644	582	7	4.53272727272727	Overrepresented	74.6103894616811	response to high light intensity
+GO:0008283	388	5	3.02181818181818	Overrepresented	76.2770636310509	cell proliferation
+GO:0009888	121	2	0.942371134020619	Overrepresented	78.810381720773	tissue development
+GO:0010638	124	2	0.965735707591378	Overrepresented	81.6160600649243	positive regulation of organelle organization
+GO:0000413	37	1	0.288163074039363	Overrepresented	81.8561925880057	protein peptidyl-prolyl isomerization
+GO:0009954	37	1	0.288163074039363	Overrepresented	81.8561925880057	proximal/distal pattern formation
+GO:0010162	406	5	3.16200562324274	Overrepresented	82.0352439234923	seed dormancy process
+GO:0009738	634	2	4.93771321462043	Underrepresented	83.0682348105242	abscisic acid mediated signaling pathway
+GO:0007140	39	1	0.303739456419869	Overrepresented	85.6472451106498	male meiosis
+GO:0008654	39	1	0.303739456419869	Overrepresented	85.6472451106498	phospholipid biosynthetic process
+GO:0010204	39	1	0.303739456419869	Overrepresented	85.6472451106498	defense response signaling pathway, resistance gene-independent
+GO:0045595	129	2	1.00467666354264	Overrepresented	86.2979293331103	regulation of cell differentiation
+GO:0006306	421	5	3.27882849109653	Overrepresented	87.2856478181864	DNA methylation
+GO:0045037	41	1	0.319315838800375	Overrepresented	89.379977861723	protein import into chloroplast stroma
+GO:0019344	459	1	3.57477975632615	Underrepresented	90.831517082038	cysteine biosynthetic process
+GO:0042538	461	1	3.59035613870665	Underrepresented	91.0048467825444	hyperosmotic salinity response
+GO:0031425	42	1	0.327104029990628	Overrepresented	91.2247548937626	chloroplast RNA processing
+GO:0010072	135	2	1.05140581068416	Overrepresented	91.9166518105435	primary shoot apical meristem specification
+GO:0046777	477	1	3.7149671977507	Underrepresented	92.7467888748099	protein autophosphorylation
+GO:0006406	136	2	1.05919400187441	Overrepresented	92.8523852412682	mRNA export from nucleus
+GO:0048528	43	1	0.334892221180881	Overrepresented	93.0552869409052	post-embryonic root development
+GO:0018208	44	1	0.342680412371134	Overrepresented	94.8716838684604	peptidyl-proline modification
+GO:0010431	139	2	1.08255857544517	Overrepresented	95.6573121710653	seed maturation
+GO:0010264	140	2	1.09034676663543	Overrepresented	96.5913643680289	myo-inositol hexakisphosphate biosynthetic process
+GO:0006284	45	1	0.350468603561387	Overrepresented	96.6740546954082	base-excision repair
+GO:0010212	45	1	0.350468603561387	Overrepresented	96.6740546954082	response to ionizing radiation
+GO:0010030	46	1	0.35825679475164	Overrepresented	98.4625076009123	positive regulation of seed germination
+GO:0009816	143	2	1.11371134020619	Overrepresented	99.3900768156842	defense response to bacterium, incompatible interaction
+GO:0006972	305	4	2.37539831302718	Overrepresented	100.095731248337	hyperosmotic response
+GO:0006099	47	1	0.366044985941893	Overrepresented	100.237149930781	tricarboxylic acid cycle
+GO:0018119	47	1	0.366044985941893	Overrepresented	100.237149930781	peptidyl-cysteine S-nitrosylation
+GO:0006346	306	4	2.38318650421743	Overrepresented	100.384578979203	methylation-dependent chromatin silencing
+GO:0051607	145	2	1.12928772258669	Overrepresented	101.252550944922	defense response to virus
+GO:0032957	48	1	0.373833177132146	Overrepresented	101.998088203881	inositol trisphosphate metabolic process
+GO:0009220	315	4	2.45328022492971	Overrepresented	103.113600975529	pyrimidine ribonucleotide biosynthetic process
+GO:0007186	49	1	0.381621368322399	Overrepresented	103.745428118495	G-protein coupled receptor signaling pathway
+GO:0009117	150	2	1.16822867853796	Overrepresented	105.894478640773	nucleotide metabolic process
+GO:0046855	52	1	0.404985941893158	Overrepresented	108.906902517824	inositol phosphate dephosphorylation
+GO:0016458	156	2	1.21495782567948	Overrepresented	111.431969055437	gene silencing
+GO:0010074	54	1	0.420562324273664	Overrepresented	112.281795105123	maintenance of meristem identity
+GO:0009266	362	4	2.8193252108716	Overrepresented	120.471748796293	response to temperature stimulus
+GO:0007000	59	1	0.45950328022493	Overrepresented	120.493596951587	nucleolus organization
+GO:0006499	1045	5	8.13865979381443	Underrepresented	122.014606061174	N-terminal protein myristoylation
+GO:0042793	169	2	1.31620431115276	Overrepresented	123.270279232657	transcription from plastid promoter
+GO:0010207	372	1	2.89720712277413	Underrepresented	124.665782575026	photosystem II assembly
+GO:0048481	415	1	3.23209934395501	Underrepresented	127.409504562015	ovule development
+GO:0002679	420	1	3.27104029990628	Underrepresented	128.070555713145	respiratory burst involved in defense response
+GO:0051788	426	1	3.3177694470478	Underrepresented	128.948121089166	response to misfolded protein
+GO:0010050	176	2	1.37072164948454	Overrepresented	129.534624690215	vegetative phase change
+GO:0048440	176	2	1.37072164948454	Overrepresented	129.534624690215	carpel development
+GO:0009627	751	3	5.84893158388004	Underrepresented	129.842248543426	systemic acquired resistance
+GO:0010228	754	8	5.8722961574508	Overrepresented	130.119930439564	vegetative to reproductive phase transition of meristem
+GO:0006470	181	2	1.4096626054358	Overrepresented	133.954941544486	protein dephosphorylation
+GO:0010227	69	1	0.53738519212746	Overrepresented	135.992342208636	floral organ abscission
+GO:0006094	463	5	3.60593252108716	Overrepresented	136.188729989769	gluconeogenesis
+GO:0006417	70	1	0.545173383317713	Overrepresented	137.477144728849	regulation of translation
+GO:0009294	70	1	0.545173383317713	Overrepresented	137.477144728849	DNA mediated transformation
+GO:0010027	469	5	3.65266166822868	Overrepresented	137.62466277891	thylakoid membrane organization
+GO:0009788	71	1	0.552961574507966	Overrepresented	138.950478925111	negative regulation of abscisic acid mediated signaling pathway
+GO:0034976	483	5	3.76169634489222	Overrepresented	141.218257118111	response to endoplasmic reticulum stress
+GO:0006164	75	1	0.584114339268978	Overrepresented	144.730891740159	purine nucleotide biosynthetic process
+GO:0034968	258	3	2.00935332708529	Overrepresented	149.714205361877	histone lysine methylation
+GO:0031048	261	3	2.03271790065605	Overrepresented	150.763436658398	chromatin silencing by small RNA
+GO:0048443	263	3	2.04829428303655	Overrepresented	151.475843912021	stamen development
+GO:0019288	581	6	4.52493908153702	Overrepresented	153.389124188439	isopentenyl diphosphate biosynthetic process, mevalonate-independent pathway
+GO:0006399	82	1	0.63863167760075	Overrepresented	154.425068292589	tRNA metabolic process
+GO:0009826	274	3	2.13396438612933	Overrepresented	155.5636771577	unidimensional cell growth
+GO:0007059	84	1	0.654208059981256	Overrepresented	157.099546312207	chromosome segregation
+GO:0043161	282	3	2.19626991565136	Overrepresented	158.696751761379	proteasomal ubiquitin-dependent protein catabolic process
+GO:0030244	285	3	2.21963448922212	Overrepresented	159.902047704323	cellulose biosynthetic process
+GO:0006464	87	1	0.677572633552015	Overrepresented	161.034286294858	cellular protein modification process
+GO:0009560	289	3	2.25078725398313	Overrepresented	161.532504629601	embryo sac egg cell differentiation
+GO:0006281	290	3	2.25857544517338	Overrepresented	161.94407646855	DNA repair
+GO:0009793	1180	11	9.19006560449859	Overrepresented	164.273756793851	embryo development ending in seed dormancy
+GO:0006418	91	1	0.708725398313027	Overrepresented	166.140211989297	tRNA aminoacylation for protein translation
+GO:0009909	744	7	5.79441424554827	Overrepresented	172.60132738295	regulation of flower development
+GO:0030154	324	1	2.52337394564199	Underrepresented	173.027145511164	cell differentiation
+GO:0016036	330	1	2.57010309278351	Underrepresented	173.23565279702	cellular response to phosphate starvation
+GO:0008380	97	1	0.755454545454545	Overrepresented	173.50816716118	RNA splicing
+GO:0009853	337	1	2.62462043111528	Underrepresented	173.621999912583	photorespiration
+GO:0035304	337	1	2.62462043111528	Underrepresented	173.621999912583	regulation of protein dephosphorylation
+GO:0006486	348	1	2.71029053420806	Underrepresented	174.523913439155	protein glycosylation
+GO:0007169	348	1	2.71029053420806	Underrepresented	174.523913439155	transmembrane receptor protein tyrosine kinase signaling pathway
+GO:0009058	348	1	2.71029053420806	Underrepresented	174.523913439155	biosynthetic process
+GO:0080167	356	1	2.77259606373008	Underrepresented	175.392427533239	response to karrikin
+GO:0009750	362	1	2.8193252108716	Underrepresented	176.154037714482	response to fructose stimulus
+GO:0010103	362	1	2.8193252108716	Underrepresented	176.154037714482	stomatal complex morphogenesis
+GO:0030422	102	1	0.794395501405811	Overrepresented	179.391566069572	production of siRNA involved in RNA interference
+GO:0001510	418	4	3.25546391752577	Overrepresented	187.012167206107	RNA methylation
+GO:0010075	450	2	3.50468603561387	Underrepresented	194.537379536862	regulation of meristem growth
+GO:0015979	452	2	3.52026241799438	Underrepresented	194.5510831801	photosynthesis
+GO:0009860	460	2	3.5825679475164	Underrepresented	194.689939186605	pollen tube growth
+GO:0035556	479	2	3.73054358013121	Underrepresented	195.534496711632	intracellular signal transduction
+GO:0045893	1080	6	8.41124648547329	Underrepresented	195.819313960327	positive regulation of transcription, DNA-dependent
+GO:0010413	495	2	3.85515463917526	Underrepresented	196.767370169112	glucuronoxylan metabolic process
+GO:0045492	497	2	3.87073102155576	Underrepresented	196.952740074642	xylan biosynthetic process
+GO:0009773	121	1	0.942371134020619	Overrepresented	199.778629967444	photosynthetic electron transport in photosystem I
+GO:0032880	122	1	0.950159325210872	Overrepresented	200.770650733833	regulation of protein localization
+GO:0006096	661	6	5.14799437675726	Overrepresented	213.643464289738	glycolysis
+GO:0048825	184	2	1.43302717900656	Overrepresented	215.177595578116	cotyledon development
+GO:0008284	187	2	1.45639175257732	Overrepresented	215.977336599758	positive regulation of cell proliferation
+GO:0048449	190	2	1.47975632614808	Overrepresented	216.800108307353	floral organ formation
+GO:0009791	192	2	1.49533270852858	Overrepresented	217.360683315568	post-embryonic development
+GO:0009165	201	2	1.56542642924086	Overrepresented	219.990620597773	nucleotide biosynthetic process
+GO:0010048	240	2	1.86916588566073	Overrepresented	232.728834202946	vernalization response
+GO:0006606	243	2	1.89253045923149	Overrepresented	233.75941535301	protein import into nucleus
+GO:0002237	263	1	2.04829428303655	Underrepresented	238.796858191933	response to molecule of bacterial origin
+GO:0009790	263	1	2.04829428303655	Underrepresented	238.796858191933	embryo development
+GO:0009637	269	1	2.09502343017807	Underrepresented	238.917348117404	response to blue light
+GO:0007155	272	1	2.11838800374883	Underrepresented	239.011208679197	cell adhesion
+GO:0007010	282	1	2.19626991565136	Underrepresented	239.477434480682	cytoskeleton organization
+GO:0009409	1117	7	8.69940955951265	Underrepresented	239.6452514296	response to cold
+GO:0007623	315	1	2.45328022492971	Underrepresented	242.471438378908	circadian rhythm
+GO:0009658	316	3	2.46106841611996	Overrepresented	242.59291021258	chloroplast organization
+GO:0006857	336	3	2.61683223992502	Overrepresented	245.310363119893	oligopeptide transport
+GO:0010090	387	2	3.01402999062793	Underrepresented	254.095480121812	trichome morphogenesis
+GO:0048364	401	2	3.12306466729147	Underrepresented	254.223793482234	root development
+GO:0006098	421	2	3.27882849109653	Underrepresented	254.871979198574	pentose-phosphate shunt
+GO:0009416	440	2	3.42680412371134	Underrepresented	255.941138580718	response to light stimulus
+GO:0006833	451	4	3.51247422680412	Overrepresented	256.740106425547	water transport
+GO:0009845	482	4	3.75390815370197	Overrepresented	259.590598889454	seed germination
+GO:0009640	502	4	3.90967197750703	Overrepresented	261.817866360255	photomorphogenesis
+GO:0006364	532	3	4.14331771321462	Underrepresented	263.621512767407	rRNA processing
+GO:0016567	597	5	4.64955014058107	Overrepresented	266.281087520344	protein ubiquitination
+GO:0050832	941	6	7.32868791002812	Underrepresented	278.994515517424	defense response to fungus
+GO:0042742	1063	7	8.27884723523899	Underrepresented	281.953250843744	defense response to bacterium
+GO:0000398	209	1	1.62773195876289	Underrepresented	328	mRNA splicing, via spliceosome
+GO:0006270	159	1	1.23832239925023	Underrepresented	328	DNA replication initiation
+GO:0006351	187	1	1.45639175257732	Underrepresented	328	transcription, DNA-dependent
+GO:0006354	225	1	1.75234301780694	Underrepresented	328	DNA-dependent transcription, elongation
+GO:0006412	763	5	5.94238987816307	Underrepresented	328	translation
+GO:0006569	193	1	1.50312089971884	Underrepresented	328	tryptophan catabolic process
+GO:0006655	176	1	1.37072164948454	Underrepresented	328	phosphatidylglycerol biosynthetic process
+GO:0007030	539	4	4.19783505154639	Underrepresented	328	Golgi organization
+GO:0007154	186	1	1.44860356138707	Underrepresented	328	cell communication
+GO:0007264	193	1	1.50312089971884	Underrepresented	328	small GTPase mediated signal transduction
+GO:0009630	358	2	2.78817244611059	Underrepresented	328	gravitropism
+GO:0009657	201	1	1.56542642924086	Underrepresented	328	plastid organization
+GO:0009684	232	1	1.80686035613871	Underrepresented	328	indoleacetic acid biosynthetic process
+GO:0009735	167	1	1.30062792877226	Underrepresented	328	response to cytokinin stimulus
+GO:0009740	212	1	1.65109653233365	Underrepresented	328	gibberellic acid mediated signaling pathway
+GO:0009809	147	1	1.1448641049672	Underrepresented	328	lignin biosynthetic process
+GO:0009887	289	2	2.25078725398313	Underrepresented	328	organ morphogenesis
+GO:0010114	252	1	1.96262417994377	Underrepresented	328	response to red light
+GO:0010218	251	1	1.95483598875351	Underrepresented	328	response to far red light
+GO:0010498	244	1	1.90031865042174	Underrepresented	328	proteasomal protein catabolic process
+GO:0015995	294	2	2.2897282099344	Underrepresented	328	chlorophyll biosynthetic process
+GO:0015996	140	1	1.09034676663543	Underrepresented	328	chlorophyll catabolic process
+GO:0016117	259	2	2.01714151827554	Underrepresented	328	carotenoid biosynthetic process
+GO:0016226	227	1	1.76791940018744	Underrepresented	328	iron-sulfur cluster assembly
+GO:0016571	156	1	1.21495782567948	Underrepresented	328	histone methylation
+GO:0019761	349	2	2.71807872539831	Underrepresented	328	glucosinolate biosynthetic process
+GO:0030968	501	3	3.90188378631678	Underrepresented	328	endoplasmic reticulum unfolded protein response
+GO:0043248	183	1	1.42523898781631	Underrepresented	328	proteasome assembly
+GO:0043687	222	1	1.72897844423618	Underrepresented	328	post-translational protein modification
+GO:0048193	457	3	3.55920337394564	Underrepresented	328	Golgi vesicle transport
+GO:0048366	332	2	2.58567947516401	Underrepresented	328	leaf development
+GO:0048439	191	1	1.48754451733833	Underrepresented	328	flower morphogenesis
+GO:0048451	144	1	1.12149953139644	Underrepresented	328	petal formation
+GO:0048453	144	1	1.12149953139644	Underrepresented	328	sepal formation
+GO:0048527	138	1	1.07477038425492	Underrepresented	328	lateral root development
+GO:0051510	175	1	1.36293345829428	Underrepresented	328	regulation of unidimensional cell growth
+GO:0051726	345	2	2.6869259606373	Underrepresented	328	regulation of cell cycle
+GO:0008026	224	15	1.50099075796766	Overrepresented	5.55110701862019e-09	ATP-dependent helicase activity
+GO:0004386	300	16	2.01025547942097	Overrepresented	3.65069271744641e-08	helicase activity
+GO:0003700	3846	3	25.7714752461769	Underrepresented	3.74001932810113e-06	sequence-specific DNA binding transcription factor activity
+GO:0008135	24	5	0.160820438353678	Overrepresented	6.41083833281798e-05	translation factor activity, nucleic acid binding
+GO:0004430	17	4	0.113914477167189	Overrepresented	0.000563864861181535	1-phosphatidylinositol 4-kinase activity
+GO:0003746	72	6	0.482461315061034	Overrepresented	0.00118786422438713	translation elongation factor activity
+GO:0003824	2676	3	17.9314788764351	Underrepresented	0.00359907012166579	catalytic activity
+GO:0003676	1718	26	11.5120630454841	Overrepresented	0.0156951011984072	nucleic acid binding
+GO:0004004	20	3	0.134017031961398	Overrepresented	0.0402151097306547	ATP-dependent RNA helicase activity
+GO:0016876	21	3	0.140717883559468	Overrepresented	0.0466862504526161	ligase activity, forming aminoacyl-tRNA and related compounds
+GO:0019912	5	2	0.0335042579903496	Overrepresented	0.0571499950449872	cyclin-dependent protein kinase activating kinase activity
+GO:0004722	282	8	1.88964015065572	Overrepresented	0.0874708969755758	protein serine/threonine phosphatase activity
+GO:0008094	62	4	0.415452799080335	Overrepresented	0.10434548443943	DNA-dependent ATPase activity
+GO:0003725	63	4	0.422153650678404	Overrepresented	0.110839104905102	double-stranded RNA binding
+GO:0004385	7	2	0.0469059611864894	Overrepresented	0.118958954357934	guanylate kinase activity
+GO:0004733	7	2	0.0469059611864894	Overrepresented	0.118958954357934	pyridoxamine-phosphate oxidase activity
+GO:0004813	8	2	0.0536068127845593	Overrepresented	0.157913141783643	alanine-tRNA ligase activity
+GO:0070628	9	2	0.0603076643826292	Overrepresented	0.202137176603168	proteasome binding
+GO:0016638	10	2	0.0670085159806991	Overrepresented	0.251559494402864	oxidoreductase activity, acting on the CH-NH2 group of donors
+GO:0016773	134	5	0.897914114141368	Overrepresented	0.276854920151463	phosphotransferase activity, alcohol group as acceptor
+GO:0003924	269	7	1.80252907988081	Overrepresented	0.305150176665353	GTPase activity
+GO:0017137	11	2	0.073709367578769	Overrepresented	0.306109246253455	Rab GTPase binding
+GO:0016301	2134	4	14.2996173102812	Underrepresented	0.341457622846106	kinase activity
+GO:0003723	1047	16	7.0157916231792	Overrepresented	0.380237255006215	RNA binding
+GO:0042800	14	2	0.0938119223729788	Overrepresented	0.499825216753852	histone methyltransferase activity (H3-K4 specific)
+GO:0010385	15	2	0.100512773971049	Overrepresented	0.574190305137714	double-stranded methylated DNA binding
+GO:0003697	55	3	0.368546837893845	Overrepresented	0.779192906624774	single-stranded DNA binding
+GO:0005525	495	9	3.31692154104461	Overrepresented	0.842967972367331	GTP binding
+GO:0003684	60	3	0.402051095884195	Overrepresented	0.991841593286685	damaged DNA binding
+GO:0043130	22	2	0.147418735157538	Overrepresented	1.22500185303815	ubiquitin binding
+GO:0003720	2	1	0.0134017031961398	Overrepresented	1.73817225796959	telomerase activity
+GO:0003721	2	1	0.0134017031961398	Overrepresented	1.73817225796959	telomeric template RNA reverse transcriptase activity
+GO:0003881	2	1	0.0134017031961398	Overrepresented	1.73817225796959	CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity
+GO:0005048	2	1	0.0134017031961398	Overrepresented	1.73817225796959	signal sequence binding
+GO:0008296	2	1	0.0134017031961398	Overrepresented	1.73817225796959	3'-5'-exodeoxyribonuclease activity
+GO:0070273	2	1	0.0134017031961398	Overrepresented	1.73817225796959	phosphatidylinositol-4-phosphate binding
+GO:0005215	955	1	6.39931327615677	Underrepresented	3.25550786216075	transporter activity
+GO:0004146	4	1	0.0268034063922797	Overrepresented	3.45333296478437	dihydrofolate reductase activity
+GO:0004654	4	1	0.0268034063922797	Overrepresented	3.45333296478437	polyribonucleotide nucleotidyltransferase activity
+GO:0004799	4	1	0.0268034063922797	Overrepresented	3.45333296478437	thymidylate synthase activity
+GO:0004818	4	1	0.0268034063922797	Overrepresented	3.45333296478437	glutamate-tRNA ligase activity
+GO:0004853	4	1	0.0268034063922797	Overrepresented	3.45333296478437	uroporphyrinogen decarboxylase activity
+GO:0035004	4	1	0.0268034063922797	Overrepresented	3.45333296478437	phosphatidylinositol 3-kinase activity
+GO:0005524	4522	42	30.3012509264721	Overrepresented	3.80685528097	ATP binding
+GO:0003690	40	2	0.268034063922796	Overrepresented	3.82430508132552	double-stranded DNA binding
+GO:0004672	2453	8	16.4371889700655	Underrepresented	4.05533875774796	protein kinase activity
+GO:0008940	5	1	0.0335042579903496	Overrepresented	4.30237913372155	nitrate reductase activity
+GO:0043546	5	1	0.0335042579903496	Overrepresented	4.30237913372155	molybdopterin cofactor binding
+GO:0046857	5	1	0.0335042579903496	Overrepresented	4.30237913372155	oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor
+GO:0004721	48	2	0.321640876707356	Overrepresented	5.34242606588375	phosphoprotein phosphatase activity
+GO:0003677	3934	16	26.361150186807	Underrepresented	5.54122372149934	DNA binding
+GO:0003887	49	2	0.328341728305426	Overrepresented	5.54578561411535	DNA-directed DNA polymerase activity
+GO:0003755	116	3	0.77729878537611	Overrepresented	5.60559865230854	peptidyl-prolyl cis-trans isomerase activity
+GO:0004748	7	1	0.0469059611864894	Overrepresented	5.9835912003735	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+GO:0016780	7	1	0.0469059611864894	Overrepresented	5.9835912003735	phosphotransferase activity, for other substituted phosphate groups
+GO:0070204	7	1	0.0469059611864894	Overrepresented	5.9835912003735	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+GO:0004326	8	1	0.0536068127845593	Overrepresented	6.81583159195577	tetrahydrofolylpolyglutamate synthase activity
+GO:0000104	9	1	0.0603076643826292	Overrepresented	7.64254414143002	succinate dehydrogenase activity
+GO:0070063	9	1	0.0603076643826292	Overrepresented	7.64254414143002	RNA polymerase binding
+GO:0043424	64	2	0.428854502276474	Overrepresented	8.91400291691952	protein histidine kinase binding
+GO:0020037	750	1	5.02563869855243	Underrepresented	9.13621815314845	heme binding
+GO:0003964	12	1	0.080410219176839	Overrepresented	10.0898798684537	RNA-directed DNA polymerase activity
+GO:0004634	12	1	0.080410219176839	Overrepresented	10.0898798684537	phosphopyruvate hydratase activity
+GO:0030060	12	1	0.080410219176839	Overrepresented	10.0898798684537	L-malate dehydrogenase activity
+GO:0030151	12	1	0.080410219176839	Overrepresented	10.0898798684537	molybdenum ion binding
+GO:0003682	70	2	0.469059611864894	Overrepresented	10.408290761768	chromatin binding
+GO:0004674	2183	8	14.6279590385866	Underrepresented	10.7158869025156	protein serine/threonine kinase activity
+GO:0016615	14	1	0.0938119223729788	Overrepresented	11.6944630053461	malate dehydrogenase activity
+GO:0051082	257	4	1.72211886070397	Overrepresented	12.2848185905743	unfolded protein binding
+GO:0004435	15	1	0.100512773971049	Overrepresented	12.4887693954126	phosphatidylinositol phospholipase C activity
+GO:0004739	16	1	0.107213625569119	Overrepresented	13.2777993505936	pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0009055	970	2	6.49982605012782	Underrepresented	13.793090262708	electron carrier activity
+GO:0070300	17	1	0.113914477167189	Overrepresented	14.0615878425257	phosphatidic acid binding
+GO:0008276	18	1	0.120615328765258	Overrepresented	14.8401696115795	protein methyltransferase activity
+GO:0008312	18	1	0.120615328765258	Overrepresented	14.8401696115795	7S RNA binding
+GO:0019904	19	1	0.127316180363328	Overrepresented	15.6135791683852	protein domain specific binding
+GO:0005546	20	1	0.134017031961398	Overrepresented	16.381850795349	phosphatidylinositol-4,5-bisphosphate binding
+GO:0045309	20	1	0.134017031961398	Overrepresented	16.381850795349	protein phosphorylated amino acid binding
+GO:0010181	94	2	0.629880050218572	Overrepresented	17.0202041346332	FMN binding
+GO:0045551	21	1	0.140717883559468	Overrepresented	17.1450185481582	cinnamyl-alcohol dehydrogenase activity
+GO:0030145	95	2	0.636580901816642	Overrepresented	17.3134204615461	manganese ion binding
+GO:0043565	887	2	5.94365536748801	Underrepresented	18.3380883659082	sequence-specific DNA binding
+GO:0003724	23	1	0.154119586755608	Overrepresented	18.6561775294374	RNA helicase activity
+GO:0000175	24	1	0.160820438353678	Overrepresented	19.4042357491045	3'-5'-exoribonuclease activity
+GO:0016836	25	1	0.167521289951748	Overrepresented	20.147324079955	hydro-lyase activity
+GO:0016787	729	8	4.88492081499297	Overrepresented	21.0921242583315	hydrolase activity
+GO:0016624	28	1	0.187623844745958	Overrepresented	22.3470980949851	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0008270	3032	14	20.316982045348	Underrepresented	22.3713167157791	zinc ion binding
+GO:0030976	29	1	0.194324696344027	Overrepresented	23.0706341422444	thiamine pyrophosphate binding
+GO:0004842	619	1	4.14782713920528	Underrepresented	26.645752694656	ubiquitin-protein ligase activity
+GO:0004629	36	1	0.241230657530517	Overrepresented	28.0025511819196	phospholipase C activity
+GO:0008233	135	2	0.904614965739438	Overrepresented	29.7169525350827	peptidase activity
+GO:0005528	44	1	0.294837470315076	Overrepresented	33.3642641470369	FK506 binding
+GO:0003729	49	1	0.328341728305426	Overrepresented	36.5729676552836	mRNA binding
+GO:0051537	49	1	0.328341728305426	Overrepresented	36.5729676552836	2 iron, 2 sulfur cluster binding
+GO:0046872	549	1	3.67876752734038	Underrepresented	36.7580789140668	metal ion binding
+GO:0016772	2469	12	16.5444025956346	Underrepresented	40.9556663814867	transferase activity, transferring phosphorus-containing groups
+GO:0000166	2506	12	16.7923341047632	Underrepresented	41.1703118243642	nucleotide binding
+GO:0016538	61	1	0.408751947482265	Overrepresented	43.8510893352608	cyclin-dependent protein serine/threonine kinase regulator activity
+GO:0004683	65	1	0.435555353874544	Overrepresented	46.1505362541865	calmodulin-dependent protein kinase activity
+GO:0016874	65	1	0.435555353874544	Overrepresented	46.1505362541865	ligase activity
+GO:0004518	70	1	0.469059611864894	Overrepresented	48.9399003902247	nuclease activity
+GO:0005515	4182	23	28.0229613831284	Underrepresented	49.4635746773672	protein binding
+GO:0016597	72	1	0.482461315061034	Overrepresented	50.0298566329074	amino acid binding
+GO:0008080	73	1	0.489162166659104	Overrepresented	50.5694058802356	N-acetyltransferase activity
+GO:0051015	74	1	0.495863018257174	Overrepresented	51.1053678717376	actin filament binding
+GO:0019901	86	1	0.576273237434012	Overrepresented	57.2656122091884	protein kinase binding
+GO:0008081	90	1	0.603076643826292	Overrepresented	59.2118378625089	phosphoric diester hydrolase activity
+GO:0004812	94	1	0.629880050218572	Overrepresented	61.1068056192471	aminoacyl-tRNA ligase activity
+GO:0004712	101	1	0.676786011405061	Overrepresented	64.3036914861169	protein serine/threonine/tyrosine kinase activity
+GO:0051536	105	1	0.703589417797341	Overrepresented	66.0645398303263	iron-sulfur cluster binding
+GO:0022891	107	1	0.716991120993481	Overrepresented	66.9274923031691	substrate-specific transmembrane transporter activity
+GO:0003899	126	1	0.844307301356809	Overrepresented	74.5757152019094	DNA-directed RNA polymerase activity
+GO:0016616	129	1	0.864409856151019	Overrepresented	75.6970966859068	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005507	534	2	3.57825475336933	Underrepresented	77.6920112931464	copper ion binding
+GO:0005509	539	2	3.61175901135968	Underrepresented	77.7433311641995	calcium ion binding
+GO:0016887	585	2	3.9199981848709	Underrepresented	78.8727755804074	ATPase activity
+GO:0016881	141	1	0.944820075327858	Overrepresented	79.9646079226403	acid-amino acid ligase activity
+GO:0005506	711	3	4.76430548622771	Underrepresented	83.7168834538525	iron ion binding
+GO:0000287	249	2	1.66851204791941	Overrepresented	89.5368625533693	magnesium ion binding
+GO:0050660	319	1	2.1375716597843	Underrepresented	95.4815284577332	flavin adenine dinucleotide binding
+GO:0016491	1468	8	9.83685014596663	Underrepresented	97.4744060165489	oxidoreductase activity
+GO:0003735	733	5	4.91172422138525	Overrepresented	107.342270765025	structural constituent of ribosome
+GO:0004713	796	4	5.33387787206365	Underrepresented	108.011822556246	protein tyrosine kinase activity
+GO:0005351	192	1	1.28656350682942	Underrepresented	131	sugar:hydrogen symporter activity
+GO:0008168	337	2	2.25818698854956	Underrepresented	131	methyltransferase activity
+GO:0015144	181	1	1.21285413925065	Underrepresented	131	carbohydrate transmembrane transporter activity
+GO:0016788	372	2	2.49271679448201	Underrepresented	131	hydrolase activity, acting on ester bonds
+GO:0017111	672	4	4.50297227390298	Underrepresented	131	nucleoside-triphosphatase activity
+GO:0022857	177	1	1.18605073285837	Underrepresented	131	transmembrane transporter activity
