@@ -1,0 +1,2304 @@
+>NewSSZNav-1
+CCAUCUUGUGAGGCACCCUUCCA
+......((.((((...)))).)) ( -1.90)
+>NewSSZNav-2
+CCUAUAAAGACUCAGUCAGCCC
+........(((...)))..... ( -0.70)
+>NewSSZNav-3
+AGCUGAAACCAUGUUUGAUUCCU
+....................... (  0.00)
+>NewSSZNav-4
+ACCUAACCUGACCUAUUCGCACCU
+........................ (  0.00)
+>NewSSZNav-5
+CACUCCAAGGAUUGAGGCAGCCGA
+..(((........)))........ ( -1.40)
+>NewSSZNav-6
+GCCGGUCGGGGGACUGAUUGGGA
+.((((((((....)))))))).. (-10.80)
+>NewSSZNav-7
+UUGCUCGAGCUUGUCAACAUC
+..................... (  0.00)
+>NewSSZNav-8
+GGGCUAAGCGAUCUGCCGAAGC
+.(((..........)))..... ( -3.90)
+>NewSSZNav-9
+UGAGAAAUGAAAGGGCUAAAAGAC
+........................ (  0.00)
+>NewSSZNav-10
+GACUUCUUGUAGGUCUACUCUCCU
+(((((.....)))))......... ( -2.80)
+>NewSSZNav-11
+UUUUCAUUUCGCACGGUAGACACC
+..............(((....))) ( -0.50)
+>NewSSZNav-12
+AUAGAGACAAGAAGAUAAAAUCCU
+........................ (  0.00)
+>NewSSZNav-13
+UUCAUCUCAGUAAACUCUGUG
+.......(((......))).. ( -1.10)
+>NewSSZNav-14
+UUGAGAGACAAUACAAUUC
+................... (  0.00)
+>NewSSZNav-15
+AUAGGCCGCAACAACUCCCCAGAA
+........................ (  0.00)
+>NewSSZNav-16
+UUAGAAAAGUCAGAUUAGACCU
+........(((......))).. ( -1.70)
+>NewSSZNav-17
+AACGGAGAAAUAAAACAUAGAUAA
+........................ (  0.00)
+>NewSSZNav-18
+UUCACUUCCUCCCCUAUUUAUAGC
+........................ (  0.00)
+>NewSSZNav-19
+UACAAAUGUUAUCAAAGUAGACCU
+........................ (  0.00)
+>NewSSZNav-20
+UUGUUCUUUCAGUUUUACUGUA
+.........((((...)))).. ( -1.20)
+>NewSSZNav-21
+AGAGCUUGUUGAAUUGUUGGAAUC
+........................ (  0.00)
+>NewSSZNav-22
+CCUCAGUUCGGAUUGUAGGCUG
+(((((((....)))).)))... ( -3.10)
+>NewSSZNav-23
+UAGGGACGAAAAACAUAUUUUAAC
+........................ (  0.00)
+>NewSSZNav-24
+CUUGACACCAUACAUUAACUCAAA
+........................ (  0.00)
+>NewSSZNav-25
+GAAUAAUUCAUGAACAUAAUAAGU
+........................ (  0.00)
+>NewSSZNav-26
+UCGGACCAGGCUACAUUCCCC
+..(((...........))).. ( -0.40)
+>NewSSZNav-27
+UGAGAGCCGGUCCGCCGAUC
+.......(((....)))... ( -2.70)
+>NewSSZNav-28
+AUACUAUUUCUCCCCCCUCAUA
+...................... (  0.00)
+>NewSSZNav-29
+UUAGAUCCUCCUCCUCGUCGGC
+...................... (  0.00)
+>NewSSZNav-30
+UUCUGACCGAUGUAGAACAUGCAU
+.........(((((.....))))) ( -2.10)
+>NewSSZNav-31
+CUCCCAAGCAGUGGGAGGAGGCU
+((((((.....))))))...... ( -9.10)
+>NewSSZNav-32
+UGCAGGAUCAAUUGAAACU
+...((..((....))..)) ( -0.10)
+>NewSSZNav-33
+AUAUAAAAGUAACAUCGUUAGUGA
+.......(.((((...)))).).. ( -0.30)
+>NewSSZNav-34
+UUUUCAUUGGCAUAACUCAACA
+...................... (  0.00)
+>NewSSZNav-35
+GAUUCGACCCAAACUGUUUUGAUU
+........................ (  0.00)
+>NewSSZNav-36
+CGACCCGUGCAAUGCUGUAGCU
+.......((((....))))... ( -0.80)
+>NewSSZNav-37
+CGUAAUCUUCCAGGUAUCGUGGCC
+.........(((.(...).))).. ( -1.90)
+>NewSSZNav-38
+UAUAUAAGAUUGUUAAACUCGAGA
+........................ (  0.00)
+>NewSSZNav-39
+ACGAACCCGUAGAAGUGAAUGAAU
+(((....))).............. ( -0.70)
+>NewSSZNav-40
+ACACCUGACCCUUGGCAGUCGAGC
+....(((.((...)))))...... ( -2.70)
+>NewSSZNav-41
+AGGAGAAUGAGAAAAACGAAAAUG
+........................ (  0.00)
+>NewSSZNav-42
+GUCUGUUUUUAUUUGUAUUGCGCC
+........................ (  0.00)
+>NewSSZNav-43
+UAGUUGAUCCUGAGGGAUUUCU
+.....(((((....)))))... ( -3.50)
+>NewSSZNav-44
+UUCUGACUUGUCACUCUUGGUUAC
+...(((((..........))))). ( -1.20)
+>NewSSZNav-45
+AAUGUGCAUAUUAAGGUUAGAACC
+..............(((....))) ( -0.30)
+>NewSSZNav-46
+UAUACAAAUUUAGUAGGCUCUCGA
+........................ (  0.00)
+>NewSSZNav-47
+UUUUAUCCGAUGUAGAACUUCAUC
+........((((........)))) ( -2.00)
+>NewSSZNav-48
+GGCCCUUGAAAAUCCGGAGGA
+...((((.........)))). ( -2.90)
+>NewSSZNav-49
+CAUCUACAAAGAAACCUUCUU
+........(((((...))))) ( -0.20)
+>NewSSZNav-50
+AUGAAAUCUGAAUCCAUAAGUGAU
+........................ (  0.00)
+>NewSSZNav-51
+UUCGCAUUCUGAAUCAACUUUUGU
+........................ (  0.00)
+>NewSSZNav-52
+UCUUUUAUCCAAUCGAACUGUGAU
+........................ (  0.00)
+>NewSSZNav-53
+UCUUGUCCUCUUGACAAAGGCACC
+..(((((.....)))))....... ( -3.20)
+>NewSSZNav-54
+CAGGACAACACUUUGAAGUGGUGU
+....(((.((((....)))).))) ( -4.00)
+>NewSSZNav-55
+AAUGCAAUUCUCCAAUGACUU
+..................... (  0.00)
+>NewSSZNav-56
+AACAAGCAUUGUAGUAGAUCUAGC
+........................ (  0.00)
+>NewSSZNav-57
+AUGGACAGUUGGGGAAUGAACAAC
+.......((((.........)))) ( -1.50)
+>NewSSZNav-58
+UAGAGAGAGGGUUGGAGUAGC
+..................... (  0.00)
+>NewSSZNav-59
+CGUACUUAGCCCAUGGGCCCGA
+........(((....))).... ( -3.10)
+>NewSSZNav-60
+AAGACCGAAGAACGAAUGAAGAAC
+........................ (  0.00)
+>NewSSZNav-61
+AAUGUUAGAACACAGAAAGAGAGA
+........................ (  0.00)
+>NewSSZNav-62
+UGAUAAACGGAAAUCAAUUUGACC
+((((........))))........ ( -0.90)
+>NewSSZNav-63
+UAUGUCAUAGCUCUACCACCGCGG
+........................ (  0.00)
+>NewSSZNav-64
+AGAAACGAUGUAGAAGAUAAACCU
+........................ (  0.00)
+>NewSSZNav-65
+CGGGGAUGGAGCGAAAGAAGUU
+...................... (  0.00)
+>NewSSZNav-66
+UGAGCCUUGUCCUGUGUUUGGAUG
+........((((.......)))). ( -3.50)
+>NewSSZNav-67
+UUCGAAUCCGGAAAGAGCCUCUUU
+((((....))))............ ( -1.40)
+>NewSSZNav-68
+UUUGGCUCGAACCCUCCUUGGUCC
+...(((.(((.......)))))). ( -1.50)
+>NewSSZNav-69
+UACAUGGACUAAAAGAGAAUUAAA
+........................ (  0.00)
+>NewSSZNav-70
+GUUGCUUUGAUGAUUCAUGAUAACU
+((((...(((....)))...)))). ( -2.60)
+>NewSSZNav-71
+AGGACCGAUGUAGAAUGUAUUAUA
+........................ (  0.00)
+>NewSSZNav-72
+AUCGAUCGUCCUGAAAUUCCUCCU
+........................ (  0.00)
+>NewSSZNav-73
+AUAACAUGAAUCAACAAUGCAAUA
+........................ (  0.00)
+>NewSSZNav-74
+CUUGGGACGGAUGUAAAGCUAA
+...................... (  0.00)
+>NewSSZNav-75
+UAAGUGAAUGGUCGUUAGAGA
+..................... (  0.00)
+>NewSSZNav-76
+AAUAUCAAUUGUUGGAGAAUUCGA
+........................ (  0.00)
+>NewSSZNav-77
+AUCGUAGAACAUUUUUUAGAAACU
+........................ (  0.00)
+>NewSSZNav-78
+AUUUCAAAUUUAGGACUGUCU
+..................... (  0.00)
+>NewSSZNav-79
+CUUGUUGAAUUGUUGGAAUCC
+..................... (  0.00)
+>NewSSZNav-80
+AGACAACGGAUGUAUGAUAUACUC
+........................ (  0.00)
+>NewSSZNav-81
+GUAGAAAUGGAAAAGUUGAACACC
+........................ (  0.00)
+>NewSSZNav-82
+CAUGACCCAUAAUUACUUAAGCCC
+........................ (  0.00)
+>NewSSZNav-83
+CUUUCCGUAGGCGUUUCACUU
+..................... (  0.00)
+>NewSSZNav-84
+AGAGCAAAUUCUGACCUUGGGACC
+........................ (  0.00)
+>NewSSZNav-85
+AGAAGAACUCUCAGGCUAUAAACC
+........................ (  0.00)
+>NewSSZNav-86
+GUCAAGCGCGAAGAUGAGGUCGAC
+(((.(.(.(......).).).))) ( -1.00)
+>NewSSZNav-87
+UUCAGUCCAGAGAAUCGUCGUCGU
+........................ (  0.00)
+>NewSSZNav-88
+AAGUACGAGUACGGAUAUGAGAUU
+........................ (  0.00)
+>NewSSZNav-89
+UAUUCACAAGACAAGACUGAAACU
+........................ (  0.00)
+>NewSSZNav-90
+AAGCUUGGGGUGAGAAUAGGUCAG
+..(((((.........)))))... ( -1.00)
+>NewSSZNav-91
+AGGAAAAUGAACCUACCGUGCUU
+(((........)))......... ( -1.20)
+>NewSSZNav-92
+CGACGAUAAUGAUAAUGUUGGAGU
+(((((.((....)).))))).... ( -1.70)
+>NewSSZNav-93
+UGAAGAUAGUGACCAAAACUC
+..................... (  0.00)
+>NewSSZNav-94
+CUGAUAGCGCUCUGUGCGCG
+......((((.....)))). ( -7.00)
+>NewSSZNav-95
+GUUAGAACUUUCACGUGGUAGCCU
+((((..((......))..)))).. ( -2.10)
+>NewSSZNav-96
+AUACUGAAUACCAUGGUACCCAGA
+...(((..(((....)))..))). ( -2.60)
+>NewSSZNav-97
+CGAUGCGGGAUGAACCGGAAGC
+...(.(((......))).)... ( -4.50)
+>NewSSZNav-98
+GUCUCUGCAACGGUGGAUACUG
+((.(((((....))))).)).. ( -2.70)
+>NewSSZNav-99
+AUUUCUUCUGACGCUGGAACCU
+.....((((......))))... ( -0.50)
+>NewSSZNav-100
+ACCAUCAACUCUGAUACCAGUUGU
+.....(((((........))))). ( -2.60)
+>NewSSZNav-101
+AAGUUAGAAUUCAUUGAGCAAUCA
+........................ (  0.00)
+>NewSSZNav-102
+AAAGACUUUGAUAGACUAUAGGCC
+........................ (  0.00)
+>NewSSZNav-103
+UUUCGAGGCAAGGUUUUUGACAUC
+..((((((......)))))).... ( -1.20)
+>NewSSZNav-104
+UUGCAAGACUAUAGCUAUGUUUCU
+........................ (  0.00)
+>NewSSZNav-105
+GAGGUCAGACCAAAGAGGAAAA
+..(((...)))........... ( -1.10)
+>NewSSZNav-106
+GGAAUGGGCUGAUUGGGAAGCA
+.......(((........))). ( -2.90)
+>NewSSZNav-107
+AUCCCUGAAGCUUCUGACAGU
+..................... (  0.00)
+>NewSSZNav-108
+ACAAUGAACUCCAACCACUUUAAU
+........................ (  0.00)
+>NewSSZNav-109
+CAAGGAGAAGAUGAGUUUAGAAGA
+........................ (  0.00)
+>NewSSZNav-110
+CAUGGAAGGACUUGGCAACUG
+..................... (  0.00)
+>NewSSZNav-111
+CCAUUUCUUUUAUUUUUUGGAC
+(((..............))).. ( -0.80)
+>NewSSZNav-112
+CAAGGAAGCUGAUUGGUGG
+................... (  0.00)
+>NewSSZNav-113
+AAUCAAUGUAUAGGAGUAGAAGCA
+........................ (  0.00)
+>NewSSZNav-114
+AGGUAGAGAGAACAACUUGGCAGU
+..((.(((.......))).))... ( -0.50)
+>NewSSZNav-115
+AAAUCCACAUACAUCGUCAGAAUC
+........................ (  0.00)
+>NewSSZNav-116
+UUCUAACCAUGUGGGAUCGUCACA
+.........(((((.....))))) ( -3.10)
+>NewSSZNav-117
+UACCGGUGCUAAUGAUUUGGAU
+..((((..(....)..)))).. ( -1.80)
+>NewSSZNav-118
+UAGGUUGGACAUUCUGAUCUGUCU
+(((((((((...)))))))))... ( -5.70)
+>NewSSZNav-119
+UCUUGGACUGAAGGGAGCUCCC
+....(((((......)).))). ( -3.10)
+>NewSSZNav-120
+UUAACGAACGAGACCCCUGCC
+..................... (  0.00)
+>NewSSZNav-121
+CCCACACCCAUGACUGUAGCAG
+...................... (  0.00)
+>NewSSZNav-122
+CUUGAAAAGUCACUCUAAAGCC
+...................... (  0.00)
+>NewSSZNav-123
+UAGGUUGGAUUUGAUCGGAUUAUC
+..((((.(((...))).))))... ( -2.70)
+>NewSSZNav-124
+AAAUUUGAUUCAAUCUGAAAGU
+...................... (  0.00)
+>NewSSZNav-125
+CACGGUGAUGACUCCAUAAAAUUCA
+...((........)).......... ( -0.90)
+>NewSSZNav-126
+CGGCAGAAGAAAUCCUGAUCGU
+((((((........))).))). ( -3.40)
+>NewSSZNav-127
+UUUUGAAAUAUUCACCAAUGAGCC
+........................ (  0.00)
+>NewSSZNav-128
+ACUGAAAUUGUGUGUCUGUAUGCA
+........((((((....)))))) ( -0.90)
+>NewSSZNav-129
+UUCUCUCCAUCUGGUCUACUC
+..................... (  0.00)
+>NewSSZNav-130
+CCCAAACCCGAACUCAUACCCG
+...................... (  0.00)
+>NewSSZNav-131
+ACCUAUGUCGCCAGUUCCUCUGAC
+...........(((.....))).. ( -1.60)
+>NewSSZNav-132
+UUGGACUGAUGGGAGCUCCCU
+..........(((....))). ( -3.70)
+>NewSSZNav-133
+AUACACUUGAACUCCAACAAUCUU
+........................ (  0.00)
+>NewSSZNav-134
+CGGAGAAGAAGCAAUGACGG
+.................... (  0.00)
+>NewSSZNav-135
+UUGACUUUGUCUGGAGCGGCCU
+........(((......))).. ( -0.80)
+>NewSSZNav-136
+AGUCCGUCAGGGCCUCUCCCUCCU
+.((((....))))........... ( -5.00)
+>NewSSZNav-137
+UAGAAAUGACUGACCAAAGAGAUU
+........................ (  0.00)
+>NewSSZNav-138
+UUCCACCGAUCGUUUGAAUUGU
+...................... (  0.00)
+>NewSSZNav-139
+AGGACUAACAGAGAAUUAAAAUGU
+........................ (  0.00)
+>NewSSZNav-140
+AAGAAUCUGGGCAUUUGGGACU
+.....(((.(.....).))).. ( -0.10)
+>NewSSZNav-141
+UAUCUUCUGUGUACUUAUAGUAUU
+......(((((....))))).... ( -1.60)
+>NewSSZNav-142
+AAUUCUCCCCCAUGUCUUCGGAUG
+.........((........))... ( -0.80)
+>NewSSZNav-143
+AUACUUAUGAGAUCGAUGAAAUUC
+........................ (  0.00)
+>NewSSZNav-144
+GUAGAAUCCCUUGCAGACGAC
+((((......))))....... ( -0.90)
+>NewSSZNav-145
+UUCCUGUAUCCACUGACGAUG
+..................... (  0.00)
+>NewSSZNav-146
+AAACGAGAUUUCAAGAACUUUCGA
+...(((((..........))))). ( -1.60)
+>NewSSZNav-147
+UCAGCUUGCUCAGAUUUGUUAGGC
+...((((((........).))))) ( -2.60)
+>NewSSZNav-148
+UCUCAUUCCAUACAUCGUUU
+.................... (  0.00)
+>NewSSZNav-149
+AUGUCAUGUAAGCUCGGAUUCGUC
+........................ (  0.00)
+>NewSSZNav-150
+UUUCCGGAUCUAAAGUGAGAAACU
+.....(..(((......)))..). ( -0.90)
+>NewSSZNav-151
+UACUAAAAACCGUCUCAGAAGGGC
+...........((((.....)))) ( -0.90)
+>NewSSZNav-152
+CUUCAAUUAUGUCCAAUCCCAU
+...................... (  0.00)
+>NewSSZNav-153
+UCACAGGAUCCAAACACAAAUAAC
+........................ (  0.00)
+>NewSSZNav-154
+ACUGAUCUCUAUUCGUCAACAACU
+..((((........))))...... ( -1.00)
+>NewSSZNav-155
+UUGUAUCAUUUGGACCAAGGUC
+............(((....))) ( -1.30)
+>NewSSZNav-156
+ACACGUCUAGCGCGAAGCCUCACU
+.........((.....))...... ( -1.00)
+>NewSSZNav-157
+UUUAUUCUCGUGGAUUUCUUUU
+...((((....))))....... ( -0.40)
+>NewSSZNav-158
+UCCCGUAUCUCUUUUCGCUCAAAC
+........................ (  0.00)
+>NewSSZNav-159
+GAAUCCUUAGAACUUGGUAGAGCU
+........................ (  0.00)
+>NewSSZNav-160
+ACGAGGACUUUACUAUUUGGAAUC
+........................ (  0.00)
+>NewSSZNav-161
+GAUGAGGACGAGGAUGAGGAUAAC
+........................ (  0.00)
+>NewSSZNav-162
+UAUCUUGCAGGGUCAAAUGGUG
+...................... (  0.00)
+>NewSSZNav-163
+UUUAGCACUCAUGACUGAAGUU
+(((((((....)).)))))... ( -1.80)
+>NewSSZNav-164
+CCUUAGCGGAUUAUUUGGCCCA
+.....((.((....)).))... ( -2.70)
+>NewSSZNav-165
+UCAGUGAGAACCUGUGAUGUACCU
+........................ (  0.00)
+>NewSSZNav-166
+AAAGAUUAUAUAGAUAAUGACACU
+........................ (  0.00)
+>NewSSZNav-167
+UUUUGGAUUUGUUUUUGCAGA
+.......(((((....))))) ( -1.60)
+>NewSSZNav-168
+AAUAUUACUCGAACGAUUCAACCU
+........................ (  0.00)
+>NewSSZNav-169
+CUCGAUCAAUGUCAAUAAAGUGAU
+..........((((......)))) ( -0.50)
+>NewSSZNav-170
+CUCGACGAUAAACUUUUAGAUAAU
+........................ (  0.00)
+>NewSSZNav-171
+AACUAAUUCAGACUGUGAAACUGC
+......((((.....))))..... ( -1.10)
+>NewSSZNav-172
+GUAAGAAUCUAUUAGGAACACUAA
+...........((((.....)))) ( -0.90)
+>NewSSZNav-173
+AGAGAAUGAGACAAUGAGAGAAGC
+........................ (  0.00)
+>NewSSZNav-174
+AAGAUUCAUCGUAGGCUAAACUCA
+........................ (  0.00)
+>NewSSZNav-175
+UAUUACACAACAAACCAUCUG
+..................... (  0.00)
+>NewSSZNav-176
+CGAGAAUCGUAUUGAAUCAUGAAC
+((.((.((.....)).)).))... ( -0.60)
+>NewSSZNav-177
+UCUGAGCCAUUGGAUUUAAUACAU
+(((((....))))).......... ( -1.20)
+>NewSSZNav-178
+UUAUACCUGCAGAGCUUUCGGAUC
+........................ (  0.00)
+>NewSSZNav-179
+UUGUCUGAGCAUCGCACGAGA
+((((.(((...))).)))).. ( -1.20)
+>NewSSZNav-180
+UCAGAUCGACUGGGCUCACUUG
+((((.....))))......... ( -1.40)
+>NewSSZNav-181
+AAACACCUGACGUGGACCUGUCCU
+........((((......)))).. ( -1.70)
+>NewSSZNav-182
+UCUCGACCCUCAACAUAUACUGAC
+........................ (  0.00)
+>NewSSZNav-183
+CAAUUCGUAGAAUCAGAAGAGUCU
+........(((.((....)).))) ( -0.60)
+>NewSSZNav-184
+UGAUGACUAUUUUGAUUAAUGACU
+........................ (  0.00)
+>NewSSZNav-185
+UCGUAGCAUCGGGGAUAUUUU
+(((......)))......... ( -0.40)
+>NewSSZNav-186
+AACCCGUCCGAUUUGGAGUAAAUU
+.(((((.......))).))..... ( -1.90)
+>NewSSZNav-187
+UCAUUCGUUCGAAAGAUUGCC
+.((.((........)).)).. ( -0.60)
+>NewSSZNav-188
+AGUACUAACAAAGAUUGAUUCAGU
+........................ (  0.00)
+>NewSSZNav-189
+AAACAAUUCGAGGCAGAGGAAGACC
+......................... (  0.00)
+>NewSSZNav-190
+CAAACGUCACAAGAGAAGAAGAAC
+........................ (  0.00)
+>NewSSZNav-191
+GCUUGACUCUAGUCCGACUUUGUA
+....(((....))).......... ( -0.80)
+>NewSSZNav-192
+UUUGUUGGACCGAUUAAUGGUA
+........(((.......))). ( -1.60)
+>NewSSZNav-193
+UUCUUUCAGCUCAUAUGUUCUU
+...................... (  0.00)
+>NewSSZNav-194
+AAUUGUCGAAACUGAUACAUCAGA
+...........((((....)))). ( -2.20)
+>NewSSZNav-195
+UUCCAGUUUAAAUGUAAUUCCC
+...................... (  0.00)
+>NewSSZNav-196
+UUGCAAACCAUUGUCAUUAAAG
+..((((....))))........ ( -0.20)
+>NewSSZNav-197
+UAGCCUUGGCCGACAGGUCCGGG
+...(((.((((....)))).))) ( -8.40)
+>NewSSZNav-198
+ACCAAGGUUUAAGUGACUUAAAUG
+......(((((((...))))))). ( -2.40)
+>NewSSZNav-199
+AAGAAAUCUAGGCCUAACUCAACC
+........................ (  0.00)
+>NewSSZNav-200
+AGGUGAAUGAACUGAAUGAAG
+.(((......)))........ ( -0.40)
+>NewSSZNav-201
+CAAAAUAUGACCGUUGAAAAACC
+............(((....))). ( -0.10)
+>NewSSZNav-202
+UCGAGAAUGACUUUGAAUGGC
+(((((......)))))..... ( -1.10)
+>NewSSZNav-203
+ACUUGGACUGAAGGGAGCUCCCU
+...........((((....)))) ( -4.40)
+>NewSSZNav-204
+AUUAUCCAAAGUUAAAUGUUGACU
+.........((((((...)))))) ( -1.40)
+>NewSSZNav-205
+AGAUGAAAUCAUGUGUCGUACAUU
+..........(((((...))))). ( -0.60)
+>NewSSZNav-206
+UUAGAGCGUCGUGCUAAUAACAUG
+....(((.....)))......... ( -1.90)
+>NewSSZNav-207
+CUAGGAGGACCAUAUUACCAUAAU
+...((....))............. ( -0.30)
+>NewSSZNav-208
+GAACUGGAACUAGAGAAACGGCAC
+...(((............)))... ( -0.40)
+>NewSSZNav-209
+GAGCUCAGGAGGGAUAGCACC
+...(((....)))........ ( -0.80)
+>NewSSZNav-210
+CUGAGUCUCAGAGCUCUCUGGAGA
+.....(((((((....))).)))) ( -4.30)
+>NewSSZNav-211
+AGCAGCGGAAGAAGAACAAGAAGU
+........................ (  0.00)
+>NewSSZNav-212
+UAGACGGAGGUCCUCAAUUGGG
+..(((....))).......... ( -2.40)
+>NewSSZNav-213
+CUUCCUAGGGACGAUUGCAUC
+..(((...))).......... ( -0.50)
+>NewSSZNav-214
+AGAGAUUAGUUUCGGUGUGAAUAC
+.((((....))))........... ( -0.20)
+>NewSSZNav-215
+UAGACGUAGAUUUCUUUAAU
+.................... (  0.00)
+>NewSSZNav-216
+AUGAGACUGCGUAAUUAAAAAUGA
+........................ (  0.00)
+>NewSSZNav-217
+AUACUAAAAAAUCUCAUGAAAUCU
+........................ (  0.00)
+>NewSSZNav-218
+UCUCAAGGACCGGAAACAUUGCGC
+........................ (  0.00)
+>NewSSZNav-219
+UGUUGAUGGAUUGGCAAGUGCACC
+......((.(((....))).)).. ( -1.50)
+>NewSSZNav-220
+UCAACUUUGGAUUCUUGGAAAAGU
+...(((((...........))))) ( -0.80)
+>NewSSZNav-221
+AUUCAUAAAUUCGUCGUAAGAAUU
+.......(((((.......))))) ( -1.40)
+>NewSSZNav-222
+UUCUGUAGAAUCACCUUAAAAUGU
+........................ (  0.00)
+>NewSSZNav-223
+CUGAGAACUAGUGACUGAUUUUGC
+........................ (  0.00)
+>NewSSZNav-224
+ACCGGCUUGUAGGGCUCACGGUCC
+((((((((...))))...)))).. ( -4.40)
+>NewSSZNav-225
+AUGAUAAUACUCUCACACAAAGAU
+........................ (  0.00)
+>NewSSZNav-226
+CAGAGUUUACAUUCAAAGACGGUU
+....((((........)))).... ( -0.50)
+>NewSSZNav-227
+AAUUAUGACGACCCGAGAAUUACA
+........................ (  0.00)
+>NewSSZNav-228
+ACCGAAACCCCUUAAAACUCUAGC
+........................ (  0.00)
+>NewSSZNav-229
+UUUUUUACAAAUCUGAACCGGGAA
+...........(((......))). ( -0.50)
+>NewSSZNav-230
+AAUUGUCUUGUUUCUCUAUUAGCU
+........................ (  0.00)
+>NewSSZNav-231
+AAAAAGACCUAUGAACCCAAGCCU
+........................ (  0.00)
+>NewSSZNav-232
+UAAAUCGAAAUUCUAGGACCAAAU
+........................ (  0.00)
+>NewSSZNav-233
+UACAGGGGCCUAGGACUUGACCUA
+.....(((.(........).))). ( -2.10)
+>NewSSZNav-234
+GAAAUAGACUGAGAGAAAAAGACU
+........................ (  0.00)
+>NewSSZNav-235
+UUGGACGUGACCCGACCUAAGUCU
+..((((..............)))) ( -1.80)
+>NewSSZNav-236
+AGUCUCUGUCGUUAGUAGUCUCCU
+((.(((((....))).)).))... ( -1.50)
+>NewSSZNav-237
+UUAUGAGGUACAGGCUGAGAAACC
+........................ (  0.00)
+>NewSSZNav-238
+AAAUACCUGGAUUCAUAGAACUU
+......(((......)))..... ( -0.20)
+>NewSSZNav-239
+CUAGACUUUGUGUUUGAUUACU
+.(((((.....)))))...... ( -2.00)
+>NewSSZNav-240
+UAACGCGCUACCACUGAUUAG
+..................... (  0.00)
+>NewSSZNav-241
+GAAGAGAGUGUAAGUGUAAUAAAC
+........................ (  0.00)
+>NewSSZNav-242
+UCGCUUCCGUUGCGACGAGCACCC
+((((.......))))......... ( -4.30)
+>NewSSZNav-243
+ACGACCUGAUCUACAUAAAACUUG
+........................ (  0.00)
+>NewSSZNav-244
+AGAUUGGACAAUAAUUAGAAGACU
+.(((((.....)))))........ ( -0.10)
+>NewSSZNav-245
+ACCCACGAACCUGAACUGAUUCAA
+...........((((....)))). ( -0.40)
+>NewSSZNav-246
+ACGAACUUCUGAAUUAAUCUGAUU
+........................ (  0.00)
+>NewSSZNav-247
+GGAGAAUUCUGACAAACAAAAAGA
+........................ (  0.00)
+>NewSSZNav-248
+UUAGAGUGUCGUGUUAAUAACCU
+....................... (  0.00)
+>NewSSZNav-249
+AUGACAAGAACUACCAUCAAAGAU
+........................ (  0.00)
+>NewSSZNav-250
+GAGCGCGACUGGUAGUGCCCAGCG
+(.((((........)))).).... ( -5.50)
+>NewSSZNav-251
+CGGCAAAAUGGAUCCGUAACCC
+(((..........)))...... ( -0.30)
+>NewSSZNav-252
+AGACAAGUUGACACAUAUGAAAUU
+........................ (  0.00)
+>NewSSZNav-253
+AGGACAUGAUAUAGUGGAAGAAUU
+....(((......)))........ ( -0.60)
+>NewSSZNav-254
+UCUGAUCGCACCCUUUUGAUUGUU
+...(((((........)))))... ( -1.20)
+>NewSSZNav-255
+UUUGCCUGCAGAAUUCAAGAAUC
+....................... (  0.00)
+>NewSSZNav-256
+AUAGAGAAUAUGAAUGGGGAAAUC
+........................ (  0.00)
+>NewSSZNav-257
+UCACUGACUUAGGAUCUUGGGUCC
+.....(((((((....))))))). ( -4.50)
+>NewSSZNav-258
+AAUGAGGUCAAAUUGUAGUCAUU
+(((((...((...))...))))) ( -1.10)
+>NewSSZNav-259
+UUCGGUUGGCUAUAAGAGUGAC
+.(((.((........)).))). ( -1.40)
+>NewSSZNav-260
+AGAUACAACUCUAUGUUCCAAAGA
+........................ (  0.00)
+>NewSSZNav-261
+CAGUUAAGUGUUAAAACUCGGG
+......(((......))).... ( -0.60)
+>NewSSZNav-262
+CUGAAUGUCAAAGUGAAGAAUU
+...................... (  0.00)
+>NewSSZNav-263
+AAGGAUAAGAAAUCAUGAGAGUGA
+............((((....)))) ( -1.00)
+>NewSSZNav-264
+ACUCCUUAUCUCGAAUAUGAUAUG
+......((((........)))).. ( -1.70)
+>NewSSZNav-265
+CAAAUUGAGCAAAUCGUUGUU
+.......(((((....))))) ( -0.70)
+>NewSSZNav-266
+CCUACGACCUGGCCUACAUAAAGU
+((........))............ ( -0.30)
+>NewSSZNav-267
+CAUGGGACUCGCCAGAUUGACUGG
+...........((((.....)))) ( -3.10)
+>NewSSZNav-268
+AGGUUCCUGUAGGCCGGCCUGACC
+(((((((....))..))))).... ( -4.00)
+>NewSSZNav-269
+CAUUUAGUAAUUCUACGAGCGCCU
+........................ (  0.00)
+>NewSSZNav-270
+AGAAUUUAGCGUCAAGACCGUCUU
+........(((.......)))... ( -0.10)
+>NewSSZNav-271
+AGAAAUGAGAGAAUAUGAUAAUGU
+........................ (  0.00)
+>NewSSZNav-272
+UUUAAUAUUCUGUACACAAAAACU
+........................ (  0.00)
+>NewSSZNav-273
+UCCUGAUGUAUGACUUGUUCU
+..................... (  0.00)
+>NewSSZNav-274
+AAUUAACGGACGUCUGAAUUAGUC
+......(((....)))........ ( -0.50)
+>NewSSZNav-275
+AAAAGCUUAGUCUGACCUGAAAGU
+....((((..((......)))))) ( -0.60)
+>NewSSZNav-276
+UACUAUAAAGGUCAAGCUCAAGCU
+..............(((....))) ( -0.70)
+>NewSSZNav-277
+CGUCCGGAUAACAUGAAGUAACAU
+........................ (  0.00)
+>NewSSZNav-278
+AUUCAAUUUUGACACUGACAAUCU
+........................ (  0.00)
+>NewSSZNav-279
+CAGAGAUCGUAACCAAAAAAGUCA
+........................ (  0.00)
+>NewSSZNav-280
+AGAAUACAUCGGGUUUCGGCUGAA
+........((((.......)))). ( -2.40)
+>NewSSZNav-281
+ACGUCAAAAUCUGAGCUUGAGAACC
+.........(((.......)))... ( -0.30)
+>NewSSZNav-282
+UCAAGAAACACCGUCUAAGCUCGU
+........................ (  0.00)
+>NewSSZNav-283
+CGGUACAAGUAGAAUGAAUGUUGU
+........................ (  0.00)
+>NewSSZNav-284
+ACAACUAAGAUGAUGAUAUAGACU
+........................ (  0.00)
+>NewSSZNav-285
+UAGUGAAGUAAGGAUGUAAGUAUC
+........................ (  0.00)
+>NewSSZNav-286
+UUCGGGAAUAGGUUGUUGCAUU
+....(.((((...)))).)... ( -0.20)
+>NewSSZNav-287
+AUUGGGAAAAUUGUAAAUUGUA
+...................... (  0.00)
+>NewSSZNav-288
+UGCCGAAGUAGACCCAACUGUCU
+.........((((......)))) ( -1.80)
+>NewSSZNav-289
+UCUUGGAUAAAUCUUAUGUGCCU
+....................... (  0.00)
+>NewSSZNav-290
+UAGGAAAUAAUUGUGAUUCAGACU
+........................ (  0.00)
+>NewSSZNav-291
+UCGGAUAUGGGACAGAAUCGGGGA
+((.(((.((...))..))).)).. ( -0.80)
+>NewSSZNav-292
+AUUGCGAGGACAAAGUUUAGGACG
+........................ (  0.00)
+>NewSSZNav-293
+AGGUCUCCAAGGUGAACAGCCUCU
+.........((((.....)))).. ( -3.30)
+>NewSSZNav-294
+UCAUAUAUUCAGAGUUAAGACU
+...................... (  0.00)
+>NewSSZNav-295
+GUAGAGAUGGAUUGCAUAAGAGGAU
+......(((.....)))........ ( -0.30)
+>NewSSZNav-296
+GGCACGCCUGCCUGGGUGUCACAC
+(((((.((.....))))))).... ( -9.20)
+>NewSSZNav-297
+GGAGAAAAGUGACCAUGUAGGUUU
+..........((((.....)))). ( -2.60)
+>NewSSZNav-298
+GAUCGAUCAUGUGACAACCAGACU
+........................ (  0.00)
+>NewSSZNav-299
+AAAAAUGAAAAAGUUGAACAUU
+...................... (  0.00)
+>NewSSZNav-300
+GAAUUCACAUGGUCUUUGAUUGUA
+........((((((...)))))). ( -0.30)
+>NewSSZNav-301
+CCAAGUUCUCAAAGAAAUCCU
+..................... (  0.00)
+>NewSSZNav-302
+UGAGACAUCCAAGAACGAAUUUAC
+........................ (  0.00)
+>NewSSZNav-303
+AUUCCCAUUGAAAAACCACUG
+..................... (  0.00)
+>NewSSZNav-304
+AGACCUUAGGAUUCUCAUAAACCU
+........................ (  0.00)
+>NewSSZNav-305
+AUUCAGUUCUAGUAUUUCCCUC
+...................... (  0.00)
+>NewSSZNav-306
+GAUGGUAGGAUAGUGGCCA
+..((((.........)))) ( -1.90)
+>NewSSZNav-307
+CUGCCUUUCGUCUCUGACCACCCC
+.........(((...)))...... ( -0.30)
+>NewSSZNav-308
+UUCACAAAUCCAGUCACAACU
+..................... (  0.00)
+>NewSSZNav-309
+AUUACCAGUGGCUGGGGAGCACCC
+....((((...))))......... ( -3.70)
+>NewSSZNav-310
+UAGAAGAUAUAGGCCUCACCU
+..........(((.....))) ( -0.50)
+>NewSSZNav-311
+UUGAAGAACAUCAACCCGGAU
+((((......))))....... ( -0.30)
+>NewSSZNav-312
+AUUAAUCUCUGAAGUGUAAAGUCU
+........................ (  0.00)
+>NewSSZNav-313
+CAAGUUUACGUAGACUCUCAAGCU
+..(((((....)))))........ ( -1.10)
+>NewSSZNav-314
+AGAUGCAUUGUUGACAAUUUUAGU
+........................ (  0.00)
+>NewSSZNav-315
+AAUCACUUUUGAACAGGCUAUGUC
+........................ (  0.00)
+>NewSSZNav-316
+AACGGAUGUAAUAAUUCUAUACCC
+...((((......))))....... ( -1.40)
+>NewSSZNav-317
+UUUGAGGAACUUGAUGUGUCU
+....(((.((.....)).))) ( -0.20)
+>NewSSZNav-318
+UGACAAAUCUUUAAGGCUACC
+..................... (  0.00)
+>NewSSZNav-319
+AAGGAUUGCCUCUAGCCUUGA
+((((.(((....))))))).. ( -1.40)
+>NewSSZNav-320
+AUGUAGUACCAGUCAAAUUUGAU
+...........((((....)))) ( -0.60)
+>NewSSZNav-321
+AACAAGCGGUGACUGAUCCAACU
+.......((........)).... ( -0.90)
+>NewSSZNav-322
+AUUACCGUCUGAGUUUGGCCC
+....(((........)))... ( -1.30)
+>NewSSZNav-323
+CAUCCGUAUGACUCAUGCAGA
+..((.(((((...))))).)) ( -3.00)
+>NewSSZNav-324
+UUAGCUUCUUUCAUCUUACCU
+..................... (  0.00)
+>NewSSZNav-325
+CAUAUGGACGAAAAUAUCUCAAUA
+........................ (  0.00)
+>NewSSZNav-326
+UUCAUCUAAGCCUAACUCUGGCCU
+.........(((.......))).. ( -3.80)
+>NewSSZNav-327
+ACUGCUCGAGCUGCUUCCGCGGC
+.........(((((....))))) ( -6.30)
+>NewSSZNav-328
+UAAGAAACAAAUAUUGUCUGAGCU
+........................ (  0.00)
+>NewSSZNav-329
+AUGAUCUUGGAAGACCGGCUAG
+......((((....)))).... ( -0.90)
+>NewSSZNav-330
+AGGAACUCGGCAAAAUGACC
+.................... (  0.00)
+>NewSSZNav-331
+AUUCUCACCCCUUUCAACCAGCUU
+........................ (  0.00)
+>NewSSZNav-332
+ACCCUGUAGACUCUUCAAAACAAC
+........................ (  0.00)
+>NewSSZNav-333
+AUGACUCAUCCAAUUAAUGAUUGU
+..........(((((...))))). ( -0.50)
+>NewSSZNav-334
+AAAAGAAUUUGAAGUUUCCGGAUG
+......(((((.......))))). ( -0.40)
+>NewSSZNav-335
+AUGUGAAGAAUUGUUGAGAGUCAG
+........................ (  0.00)
+>NewSSZNav-336
+AGGAUAAAUGAUAUUGGAAAACCU
+........................ (  0.00)
+>NewSSZNav-337
+UCGGCCUAACCUUUUUAAAAGCCU
+..(((...............))). ( -2.20)
+>NewSSZNav-338
+CGGAUCAACAUUUAGGAAAAAUGA
+........(((((.....))))). ( -0.90)
+>NewSSZNav-339
+CCUGACACCACACUCUAACCCA
+...................... (  0.00)
+>NewSSZNav-340
+GUAGCUGCUAUCUGCGGGCC
+....((((.....))))... ( -4.70)
+>NewSSZNav-341
+CAGCAACAACGACAGUAGAAAAGU
+........................ (  0.00)
+>NewSSZNav-342
+UAUUGAAAAUGUAUUGUUAUUUGU
+......(((((......))))).. ( -0.10)
+>NewSSZNav-343
+UUAGACGAAAGAGAAGAUGAAGGU
+........................ (  0.00)
+>NewSSZNav-344
+ACAAUACUCGUCGCCCUUAAAAGG
+..............(((....))) ( -0.30)
+>NewSSZNav-345
+GUUAAAAGACUGCAUAGAAUUUGC
+...........(((.......))) ( -0.70)
+>NewSSZNav-346
+UAACAUGCCCUAUCUGCCUAGGAU
+........((((......)))).. ( -3.10)
+>NewSSZNav-347
+AGUGGACUUGGGCCUGAUGAUAGA
+........................ (  0.00)
+>NewSSZNav-348
+UCGCUUCAAGCAUUCAUGGCU
+..(((...))).......... ( -1.10)
+>NewSSZNav-349
+UCGGCCAGUUGUAUAUCAACAAGG
+.......((((.....)))).... ( -2.60)
+>NewSSZNav-350
+UUUAAGAGGACCUAUCGGAUGCCU
+......(((.((....))...))) ( -2.10)
+>NewSSZNav-351
+UAACUAAUUACUCGGUACCCG
+............(((...))) ( -0.40)
+>NewSSZNav-352
+UUUGGAGGAUGAAAGUGUAAAAGU
+........................ (  0.00)
+>NewSSZNav-353
+ACUUGAGAAUGAGAUUAUUUGAAU
+........................ (  0.00)
+>NewSSZNav-354
+CCUCCUGCAGACGCAUAACCG
+.....(((....)))...... ( -1.70)
+>NewSSZNav-355
+GAUCGAGACCCUGACACUAAACCA
+........................ (  0.00)
+>NewSSZNav-356
+CUUACAAACGAGUUUCACUACC
+...................... (  0.00)
+>NewSSZNav-357
+GUAGAAUCGCACCCGCCAGUCAAG
+...((...((....))...))... ( -1.30)
+>NewSSZNav-358
+AAUUAUGACGUUGGUUACAAUAGU
+.(((.((((....)))).)))... ( -1.90)
+>NewSSZNav-359
+AACCGAGUCGGGUUGCUGUGCACA
+((((......)))).......... ( -3.60)
+>NewSSZNav-360
+AGCACCAACACUGACACGGACACC
+........................ (  0.00)
+>NewSSZNav-361
+ACUCGAUCCUCUUAAGUAAAGUCU
+........................ (  0.00)
+>NewSSZNav-362
+UUUCCACCGUUGAAGUUGACC
+..................... (  0.00)
+>NewSSZNav-363
+AAACAUGAAGAAUGGAGUCUGAAG
+...(((.....))).......... ( -0.60)
+>NewSSZNav-364
+CUUAAAUAGGUUGAGUCAAAGGCC
+........((((........)))) ( -1.90)
+>NewSSZNav-365
+AUACCCGACUAAUGUGCGUGACUC
+.....((((....)).))...... ( -0.70)
+>NewSSZNav-366
+UGAGACCUGAACGAGAUGUGAACC
+........................ (  0.00)
+>NewSSZNav-367
+CUGAAGAAAAAUCCGCCUCCUU
+...................... (  0.00)
+>NewSSZNav-368
+CAACUCGGACUAAUGUGUCAUCACC
+.......(((......)))...... ( -2.70)
+>NewSSZNav-369
+CUUGUGCUUCUUUGACUUCCA
+..................... (  0.00)
+>NewSSZNav-370
+UCUCUACCAGUUUUCUAUCAAC
+...................... (  0.00)
+>NewSSZNav-371
+UAGGAGGUAGAACAAUCAGUUGGU
+........................ (  0.00)
+>NewSSZNav-372
+UUAGGAUAUCUGGCUCUCACCCAGG
+.........((((.......)))). ( -3.70)
+>NewSSZNav-373
+CGUAGGAUUAUGACUGAACGCCU
+..(((........)))....... ( -0.40)
+>NewSSZNav-374
+GUUGGGCUAGUAGAUGCAUAAUGC
+((((.((........)).)))).. ( -2.30)
+>NewSSZNav-375
+GAGAUGGAAGACUAUAACCCCU
+...((((....))))....... ( -0.30)
+>NewSSZNav-376
+UUGUUGGAUAAAAUUGAGAGAU
+...................... (  0.00)
+>NewSSZNav-377
+AUUAGAACAAGAGCUUUAGGUUGU
+........................ (  0.00)
+>NewSSZNav-378
+AGAGAUUUUCAGUUCCAUUUGA
+........((((......)))) ( -0.40)
+>NewSSZNav-379
+UCCGUGAUCGCGUCGUGAUGA
+......(((((...))))).. ( -2.70)
+>NewSSZNav-380
+UCCCACCCUUUGCAUUGUCACUAG
+........................ (  0.00)
+>NewSSZNav-381
+AUCCGAACUCGUACCUGAUCAACU
+........................ (  0.00)
+>NewSSZNav-382
+CAAACGAUACUCGAACUUCCGAAU
+..........(((......))).. ( -1.40)
+>NewSSZNav-383
+UCUGAAUUUCAAAAUUUCGUGACC
+((((((.........)))).)).. ( -0.20)
+>NewSSZNav-384
+UGACCCGACCAGACCUCCGAGUGG
+........(((..(....)..))) ( -1.00)
+>NewSSZNav-385
+AUGGGAUACGAUGAGAUAGAAUGC
+........................ (  0.00)
+>NewSSZNav-386
+UUACUAGGAAAGGGACCGGCUC
+...................... (  0.00)
+>NewSSZNav-387
+UAUUUUAAUUGUGCAGAAUUCC
+...................... (  0.00)
+>NewSSZNav-388
+UCAACGGACUCCUCCACGCCUU
+.....(((....)))....... ( -1.80)
+>NewSSZNav-389
+AAUUGUUGUACUCUCUUGGAAGCC
+........................ (  0.00)
+>NewSSZNav-390
+UUUGGAGCCAUAUUUGAACU
+.................... (  0.00)
+>NewSSZNav-391
+UUCAUGGACCAAUUUUGCAGAGAU
+........................ (  0.00)
+>NewSSZNav-392
+AAAAGAGGCUAGAUUGAAAGAUUU
+........................ (  0.00)
+>NewSSZNav-393
+AGCUUGGAUCCUUUACCUGU
+.....((........))... ( -0.10)
+>NewSSZNav-394
+CUAGUUAGUAUAAAGAAUAAGAACU
+..((((..(((.....)))..)))) ( -0.80)
+>NewSSZNav-395
+AUUGGGAUAUGUCUCCGCAGCACC
+.((((((......))).))).... ( -2.90)
+>NewSSZNav-396
+GGGUCUUGUGGAUAUUUCUUCCU
+.........(((.......))). ( -2.10)
+>NewSSZNav-397
+AGUGUAUCACUCUCCAAACCCGAG
+((((...))))............. ( -0.60)
+>NewSSZNav-398
+AAACUUUAGAUCUUACAUAAAAGG
+........................ (  0.00)
+>NewSSZNav-399
+UCAAGAUUCCAAAGGACUGACUAA
+.......(((...)))........ ( -0.50)
+>NewSSZNav-400
+AGAGCACCGCACGUCGCG
+.......(((.....))) ( -1.90)
+>NewSSZNav-401
+UCAAACUCGCGACACUUUCCUCAC
+........................ (  0.00)
+>NewSSZNav-402
+CGACGUGGAAGACGUUGAGGACCU
+((((((.....))))))....... ( -6.40)
+>NewSSZNav-403
+AUAGCGCGGAGCCUCCAGGCAAUG
+...((..(((...)))..)).... ( -4.60)
+>NewSSZNav-404
+AUCGUGAAUGAUCUGAAUUGAGCA
+........................ (  0.00)
+>NewSSZNav-405
+AGGCAGCCGAUGUGGGACUUUGGU
+.....(((((.((...)).))))) ( -3.80)
+>NewSSZNav-406
+AGGCCGAAGAGGGGAAAGGUUC
+.((((............)))). ( -2.10)
+>NewSSZNav-407
+AUAUGGCUGAGGAUGCACCUGAGA
+......((.(((.....))).)). ( -4.90)
+>NewSSZNav-408
+UUUUUGUCCGCAACACUGAUUAGU
+........................ (  0.00)
+>NewSSZNav-409
+UCACAUCCCAUCCUUACAAUCGUC
+........................ (  0.00)
+>NewSSZNav-410
+AUGACCAAACAAUGUUUUCGU
+..................... (  0.00)
+>NewSSZNav-411
+CUGUUAUUUCCAAUUCUGAUUUGU
+........................ (  0.00)
+>NewSSZNav-412
+AAGUGAGAUUGAGACCGAUUCAUC
+..(((((.(((....)))))))). ( -2.90)
+>NewSSZNav-413
+CGUUCGCGCGGCCCCUUUC
+(((....)))......... ( -0.70)
+>NewSSZNav-414
+GGUAUACAACAGGUCCGGUCGAUC
+...........((((.....)))) ( -0.90)
+>NewSSZNav-415
+CAAAAUGUUGGCCUGCCCGCUCCAA
+......((.((....)).))..... ( -1.30)
+>NewSSZNav-416
+AAACAAGGCCGUCCAUACUGAAUG
+........................ (  0.00)
+>NewSSZNav-417
+UUAAGGGAUUUAGAUUGUACUC
+...................... (  0.00)
+>NewSSZNav-418
+UCUGAGUCAUGCCUUGCACCCUUG
+...(((...(((...)))..))). ( -0.50)
+>NewSSZNav-419
+AAACAUAUGCAUGAGGCCUUCC
+...................... (  0.00)
+>NewSSZNav-420
+UAGGCUCAGGCUUUUUUAAAAGUC
+........((((((....)))))) ( -2.70)
+>NewSSZNav-421
+AAGGAUAUAUGUUAACUGAUUUCA
+........................ (  0.00)
+>NewSSZNav-422
+UGUGUAGUUUGACUUAUAUAAAGU
+(((((((......))))))).... ( -1.90)
+>NewSSZNav-423
+GAGACUUCUGAAUCAACUUACAGA
+......((((..........)))) ( -0.90)
+>NewSSZNav-424
+GAACGGGCCUUACGUAGGACAGGC
+......((((..(....)..)))) ( -3.50)
+>NewSSZNav-425
+AAACCUUUCUGAACACCAAUGUU
+....................... (  0.00)
+>NewSSZNav-426
+UUGUGUAUCUUUCGGGUUGGGUCC
+......((((........)))).. ( -0.40)
+>NewSSZNav-427
+AUAUGACUAAGGUGAUCGACAACC
+..........(((........))) ( -1.70)
+>NewSSZNav-428
+ACUCGAGGACUCAACUGGUAGACU
+.(((.((.......)).).))... ( -1.80)
+>NewSSZNav-429
+UCAAAGACUGGUCAAACUCGUC
+.....(((.(((...))).))) ( -2.00)
+>NewSSZNav-430
+UAAACUGAUUUUUAAGGGGACC
+...................... (  0.00)
+>NewSSZNav-431
+AUGUUUUAUUGUUGUAACAAG
+.((((.((....)).)))).. ( -0.50)
+>NewSSZNav-432
+AUUGAUUUUGGUAGAUUCGAAC
+......(((((.....))))). ( -0.60)
+>NewSSZNav-433
+UCGGAUUUGGUACCCCAAUAAUUU
+......((((....))))...... ( -2.00)
+>NewSSZNav-434
+UCAUACGAUCUAGGCAAACAAGAU
+.......((((.(.....).)))) ( -1.10)
+>NewSSZNav-435
+AAGACUGAGAGUUCUCUAAUGAAU
+......(((....)))........ ( -1.60)
+>NewSSZNav-436
+GUGUAUUAGAUUGCUCCGAGACUC
+..(((......))).......... ( -0.50)
+>NewSSZNav-437
+GGGGAUCCUUUCGCUGCACACGA
+((.((.....)).))........ ( -2.40)
+>NewSSZNav-438
+AGAGAGAAUCACUGAACCUGUUUU
+........................ (  0.00)
+>NewSSZNav-439
+AAAAUUGAUCUGAGUCGUUGAAUU
+........................ (  0.00)
+>NewSSZNav-440
+AACAGGAUCAAGUGGGAGCUGACC
+....((.(((.((....))))))) ( -2.50)
+>NewSSZNav-441
+AUUUGAUGGCAUUAGAGGGUG
+..................... (  0.00)
+>NewSSZNav-442
+CGAAUAAAGGAGUCACAUGAC
+...........(((....))) ( -0.70)
+>NewSSZNav-443
+CAGAAGCUCGAGUACGGUCUGUGC
+((((...(((....)))))))... ( -2.40)
+>NewSSZNav-444
+CAUGGUCGAUCCCAUCUUCGCG
+.((((......))))....... ( -2.20)
+>NewSSZNav-445
+CCACCAUGAAAAUCGGUCGCCCUU
+..(((((....)).)))....... ( -0.90)
+>NewSSZNav-446
+GUUUGUUUGAUGGUAUCUA
+................... (  0.00)
+>NewSSZNav-447
+UUAAAAAAUAUCUAAGAAUG
+.................... (  0.00)
+>NewSSZNav-448
+UAUGAAUCGUUUUUUCAGGGGACC
+..((((.......))))....... ( -0.90)
+>NewSSZNav-449
+AAUCGGUUAUGUAUCUGACUCAGA
+..((((........))))...... ( -2.10)
+>NewSSZNav-450
+AAUCCCUCAGGACUCACUGUAUG
+.......(((......))).... ( -2.00)
+>NewSSZNav-451
+AAGAACCGUUGGUUUUUUUGGGAC
+(((((((...)))))))....... ( -3.40)
+>NewSSZNav-452
+AAUCCAUAGACCUCAACCCGUUU
+....................... (  0.00)
+>NewSSZNav-453
+UUAUCCAUGUAGAAAUCAAGAUCA
+........................ (  0.00)
+>NewSSZNav-454
+AAAAAGCUGGUAGUUGGACC
+........(((......))) ( -0.60)
+>NewSSZNav-455
+CUUCGUACCCCAUUGCCCAGAGG
+((((...............)))) ( -0.50)
+>NewSSZNav-456
+CUAAAGAAUACCGUGUGCUUGU
+...................... (  0.00)
+>NewSSZNav-457
+GCACAUAGUCGGUCCAAUACCCGC
+.........(((........))). ( -1.70)
+>NewSSZNav-458
+AUAGAUAACAACACUGAACAAGU
+....................... (  0.00)
+>NewSSZNav-459
+UCAAUGACCCAACAAGCAAUCU
+...................... (  0.00)
+>NewSSZNav-460
+AAUACGUGUUGUCUUGAAUGGAAA
+........................ (  0.00)
+>NewSSZNav-461
+AAGUUCAAGGAAUGAGGAUUGUUC
+.(((((.........))))).... ( -0.50)
+>NewSSZNav-462
+GAGAAUGGAUAAUUUUGAAGCACU
+.(((((.....)))))........ ( -0.40)
+>NewSSZNav-463
+UCUGACCCAAAACGAAAUAAACAC
+........................ (  0.00)
+>NewSSZNav-464
+CAAACCUGUAGGAUCCUCAUAUGU
+........................ (  0.00)
+>NewSSZNav-465
+AUGAACAAUAAACAAAGCACC
+..................... (  0.00)
+>NewSSZNav-466
+UUCGGGCGAGACAUCUUACGAUGUC
+.........((((((....)))))) ( -6.20)
+>NewSSZNav-467
+UAUGAGAAUUUCGAACAAGAGAAA
+........((((......)))).. ( -1.50)
+>NewSSZNav-468
+GAAUGUUAUAAUCAUGUCUAGACU
+........................ (  0.00)
+>NewSSZNav-469
+UGAGACACAAUGUUAUGAUAGGAU
+...((((...)))).......... ( -0.20)
+>NewSSZNav-470
+UUAAAGGAUAAAAUUGACAAAUU
+....................... (  0.00)
+>NewSSZNav-471
+GGAAGGGACUGCAAAAUGCAACGU
+.........((((...)))).... ( -2.20)
+>NewSSZNav-472
+CAUGAAUUUGAAAUUGAACUCCU
+....................... (  0.00)
+>NewSSZNav-473
+UAUGACUGCAACAAAUUUGAUUGU
+.......((((((....)).)))) ( -0.60)
+>NewSSZNav-474
+AGCACGAGAGUUGGUACUCGC
+....((((........)))). ( -3.60)
+>NewSSZNav-475
+AUAUAUCCGACCGUUAACUUUUGU
+........................ (  0.00)
+>NewSSZNav-476
+AUUGAGACAACUCGCUUAACACCC
+..((((....)))).......... ( -1.60)
+>NewSSZNav-477
+AAGGACUUCAACACUAACAUGUGU
+..........((((......)))) ( -3.00)
+>NewSSZNav-478
+UACCCAUUCUCGGAUUUAGCG
+...((......))........ ( -0.90)
+>NewSSZNav-479
+AUUGAUGACAGAUUUUGGUUC
+..................... (  0.00)
+>NewSSZNav-480
+CGAGACUUGUGUAAUUAUGUUAUU
+........................ (  0.00)
+>NewSSZNav-481
+UCUGUUUUCAAAGUUUAUAUU
+..................... (  0.00)
+>NewSSZNav-482
+UUCUAGACCAAAAACAUAAUCGGU
+......(((............))) ( -0.20)
+>NewSSZNav-483
+UUUGUAAGUUUCGUCUUAGC
+....((((......)))).. ( -0.80)
+>NewSSZNav-484
+AUGAGAAGAAUGAGCAGAAGUUUU
+...........((((....)))). ( -0.30)
+>NewSSZNav-485
+CAAAUAUUUGUGGAUAAUCAAGCU
+........................ (  0.00)
+>NewSSZNav-486
+CCGAGAAUUGUAAAUUGACACA
+...................... (  0.00)
+>NewSSZNav-487
+CAUUUGCUUGGACCAUCACUCUUUC
+......................... (  0.00)
+>NewSSZNav-488
+AGACAAAGCAGAGAUUGUGAAAUC
+..((((........))))...... ( -0.70)
+>NewSSZNav-489
+UCAGGACAUUGGACUCUGAAUCC
+(((((.........))))).... ( -2.50)
+>NewSSZNav-490
+UAGAAUAGAUGGACAAGUGAACCU
+........................ (  0.00)
+>NewSSZNav-491
+AAUUGGACUGAACCGGCUUAGACA
+..((((......))))........ ( -1.00)
+>NewSSZNav-492
+GUCAAUUGCCCGAUGUAGAAAGCC
+........................ (  0.00)
+>NewSSZNav-493
+UUAUUUUUGCUAAAACUUGGAC
+...................... (  0.00)
+>NewSSZNav-494
+CUUACCAAUUUCUGAUCUCA
+.................... (  0.00)
+>NewSSZNav-495
+AAGAUUAAAGACCAAACUGAAUUU
+........................ (  0.00)
+>NewSSZNav-496
+CACCUAAAGCCUGAGAACUCUC
+............(((....))) ( -0.40)
+>NewSSZNav-497
+UGUAGAAAUGUUACACAUGCACCC
+(((((.....)))))......... ( -0.80)
+>NewSSZNav-498
+UUGAGGGACUUUCCACGUAAUCGU
+.....(((...)))(((....))) ( -1.60)
+>NewSSZNav-499
+UAGAUCAUAUCGUUUGGCAUA
+..................... (  0.00)
+>NewSSZNav-500
+AGAAUCAACCUCGUUCGUCUGAUU
+..(((((((.......)).))))) ( -0.80)
+>NewSSZNav-501
+UUUUCCGGGCAUAUCUUAAAAUU
+....................... (  0.00)
+>NewSSZNav-502
+UUAUUAACGACAAUAGACAAAAGU
+........................ (  0.00)
+>NewSSZNav-503
+CACGAUAACCAACUCUAACAAUU
+....................... (  0.00)
+>NewSSZNav-504
+GGGAAAUACGGUACAUGUGAAAUC
+........................ (  0.00)
+>NewSSZNav-505
+UAGUUAUACGUAUUCCUCUACACU
+........................ (  0.00)
+>NewSSZNav-506
+CAGGACACCUUUAAUGUUAUUAGU
+...((((.......))))...... ( -0.30)
+>NewSSZNav-507
+UGAGAUACAUUGAGAGAGACUC
+...................... (  0.00)
+>NewSSZNav-508
+UGCACCCUUGCGAUUUGGAGC
+((((....))))......... ( -1.80)
+>NewSSZNav-509
+CACACCACAGGAUUCUGAUCCU
+........(((((....))))) ( -3.30)
+>NewSSZNav-510
+UUUUACAGAAAAAAAUUAGGCAUG
+........................ (  0.00)
+>NewSSZNav-511
+AGAGAGACGGAGAACAAAUUUCU
+(((((...(.....)...))))) ( -1.00)
+>NewSSZNav-512
+CCGACCUUACCUCAGUUGGUAGAGC
+......(((((......)))))... ( -4.60)
+>NewSSZNav-513
+AUCGGUACCUUUGCAUCACAUA
+...................... (  0.00)
+>NewSSZNav-514
+GAAGGGUGUUGGUCGAUUAAGAC
+...........(((......))) ( -1.50)
+>NewSSZNav-515
+GAAUCACCAAGAGAACCAGGGAAG
+...((.((..........)))).. ( -0.50)
+>NewSSZNav-516
+GGAGAAGAACUUUAGUUAAGGAGG
+.........((((......)))). ( -0.60)
+>NewSSZNav-517
+ACGGAGAGAGGAAUUUUCAAAUU
+..(((((......)))))..... ( -2.00)
+>NewSSZNav-518
+AAUCGGAUAUGGGACGGGAUCAGG
+..(((.........)))....... ( -0.10)
+>NewSSZNav-519
+UUUCUAAAUGUAGGCAUUCUUCUU
+........................ (  0.00)
+>NewSSZNav-520
+CCCUCGGCGUCCGAAUUGUAGACU
+...((((...)))).......... ( -3.20)
+>NewSSZNav-521
+AUUUGAGGAUUCUAAGACGGGUGU
+........((((......)))).. ( -0.10)
+>NewSSZNav-522
+UAUACCAGAUUGUAAUGAUGAUAUU
+......................... (  0.00)
+>NewSSZNav-523
+UGAGAAUGAUUGUCGCAAAUAACA
+........................ (  0.00)
+>NewSSZNav-524
+CCUCAACAUCUGAUCCUUUAGGGU
+.....((.(((((....))))))) ( -1.80)
+>NewSSZNav-525
+AGAUCGGGAUUUGACUUUGGACCU
+((.((.(((......))).)).)) ( -0.90)
+>NewSSZNav-526
+CUCCCCGAAAUGCGUUGAGGCG
+(((..((.....))..)))... ( -2.10)
+>NewSSZNav-527
+UCAAACAUAUUUAACUGACAACCU
+........................ (  0.00)
+>NewSSZNav-528
+UCUUGAACUUGAGAUUCUUCCUCC
+((((......)))).......... ( -0.80)
+>NewSSZNav-529
+GUAUUCCUGUUGACGAGACUCACC
+........................ (  0.00)
+>NewSSZNav-530
+CCUGAAUCGUUUAAUUAAUUGACA
+........................ (  0.00)
+>NewSSZNav-531
+GAUUCAUCGUAGGCUAAGCUCAGG
+...........(((...))).... ( -0.30)
+>NewSSZNav-532
+UAAGACUGGACUUUAUUAUAGAUC
+........................ (  0.00)
+>NewSSZNav-533
+CGAUCUGGCGUAUAUAAAACCU
+...................... (  0.00)
+>NewSSZNav-534
+AUAGAAAUCCAUCGGUGCUGUCCA
+.............((......)). ( -1.00)
+>NewSSZNav-535
+UAUCUAAUUGUGGCCUUGAAGACC
+........................ (  0.00)
+>NewSSZNav-536
+UUUCAUGGAUGACCUAAAUGCCU
+....................... (  0.00)
+>NewSSZNav-537
+CAUGUGACUUAUGUAGAGACU
+((((.....))))........ ( -0.10)
+>NewSSZNav-538
+UUUUUCUUUUACCUUAAUAUG
+..................... (  0.00)
+>NewSSZNav-539
+AUUGUACAUAAUUGAAGGACUA
+...................... (  0.00)
+>NewSSZNav-540
+UUACAUAAGAGUCUGACUUGACCC
+..........(((......))).. ( -2.30)
+>NewSSZNav-541
+AAUUUGGAUCUUAAGGUAGAUU
+......(((((......))))) ( -2.30)
+>NewSSZNav-542
+UGCAUUAGAGCUCACUCUGUUAGC
+.(((.(((((....))))).).)) ( -3.60)
+>NewSSZNav-543
+UCAGGUCGUAAGCUCCUGUAGACC
+...((((...((...))...)))) ( -4.10)
+>NewSSZNav-544
+AUAAUACAAAAUCAUUGUGGAUUC
+....(((((.....)))))..... ( -0.90)
+>NewSSZNav-545
+UAUUCGAUUCGUUAAACCCGUGAA
+........................ (  0.00)
+>NewSSZNav-546
+AAUGUGGGAUUACUUUUAACCAAU
+....(((............))).. ( -1.50)
+>NewSSZNav-547
+AUUGGACCAAAAUGUGAGUAAUUU
+........................ (  0.00)
+>NewSSZNav-548
+UUUAAGACAGACAGACCAAAAACU
+........................ (  0.00)
+>NewSSZNav-549
+AAAGAACUUUAAAAAAAUGUCGCU
+........................ (  0.00)
+>NewSSZNav-550
+AAGAUUCUCUGCUCUUGAAGUU
+((((........))))...... ( -0.40)
+>NewSSZNav-551
+AGGCUGAAUACCUGAGUACCCGAG
+(((.......)))........... ( -0.70)
+>NewSSZNav-552
+UAAAAGAGAACCAAGAAUGAUGAG
+........................ (  0.00)
+>NewSSZNav-553
+UAUAAAAACUCUUAAUCCCGAA
+...................... (  0.00)
+>NewSSZNav-554
+AUUGGAUAGAAGACUCAAAGUAGA
+........................ (  0.00)
+>NewSSZNav-555
+UGAGGACAAAAUUCGUGAAUAAUU
+........................ (  0.00)
+>NewSSZNav-556
+UACGAACCAUACGGAUUGACAAUC
+..(((.((....)).)))...... ( -1.80)
+>NewSSZNav-557
+GGCGAGAUCGAAUAAAUUAAAGGC
+........................ (  0.00)
+>NewSSZNav-558
+AUGUCGAGAUCACAAAUAUAAGGG
+........................ (  0.00)
+>NewSSZNav-559
+UUGGCCUGAACUGAACCAAACUGU
+((((...........))))..... ( -1.10)
+>NewSSZNav-560
+UCACAGUAACACCAUCGUCGCAGC
+.....((.((......)).))... ( -0.40)
+>NewSSZNav-561
+UCGCGAAGCUACCGUGCGUUGGAU
+((.(((.((......)).))))). ( -3.60)
+>NewSSZNav-562
+AACCAGUACGUUCCUUUUCCCA
+...................... (  0.00)
+>NewSSZNav-563
+AAACAUUCCGGAUGACGUUCUU
+.........(((......))). ( -0.40)
+>NewSSZNav-564
+AUUUUGAGAGAAUCCAACAACAUU
+........................ (  0.00)
+>NewSSZNav-565
+UAUGAGUUGACUCUUGAGUAAACU
+....((((.(((....))).)))) ( -2.10)
+>NewSSZNav-566
+AAUUAUGUCAUGUGAAAUUUGCCU
+........................ (  0.00)
+>NewSSZNav-567
+CUCCGCACCAGGAACAACCAGAAU
+.(((......)))........... ( -3.10)
+>NewSSZNav-568
+AUCGGAAUUAUACUGAUAUUGCCU
+(((((.......)))))....... ( -2.30)
+>NewSSZNav-569
+CGAGCAAAGUUGUGCUUGGUGACU
+((((((......))))))...... ( -6.50)
+>NewSSZNav-570
+AUUGCACAUUCAUGGACAAAAAUG
+.(((..((....))..)))..... ( -0.70)
+>NewSSZNav-571
+AAUCAUUGUUGGAAGAGAACAACC
+.......((((........)))). ( -3.00)
+>NewSSZNav-572
+CAGAUAGACCUGACAGAUUCGAACU
+(((......)))............. ( -1.40)
+>NewSSZNav-573
+CGUGUGAGACACGGCAAGAAGCUG
+(((((...)))))((.....)).. ( -4.50)
+>NewSSZNav-574
+UAUGAAUCAUACGGAUUGAUAAUC
+(((.((((.....)))).)))... ( -3.50)
+>NewSSZNav-575
+AUAUGCAAAGAGACUGUUUUCGGA
+.............(((....))). ( -0.60)
+>NewSSZNav-576
+UAAUGUUUGGACAAUUGGAUGGGU
+........................ (  0.00)
+>NewSSZNav-577
+AAGAAAGACUGAGAUAAUAAACU
+....................... (  0.00)
+>NewSSZNav-578
+ACUUGUGACCGCGUUUCUGAAGUU
+((((..((.......))..)))). ( -0.50)
+>NewSSZNav-579
+AUUGUCUUCUGUAAAUGAUACU
+..((((..........)))).. ( -0.60)
+>NewSSZNav-580
+CAACAAUGGAAUCUGAAUUUGU
+...................... (  0.00)
+>NewSSZNav-581
+UAUGAACUGGUUUUUAAGGGGACC
+........((((((....)))))) ( -2.40)
+>NewSSZNav-582
+AAAACGGUAUCGUAGAACGAAAGC
+.........((((...)))).... ( -1.40)
+>NewSSZNav-583
+GUAUGGACUGUAUGUCAUGGGGG
+.....(((.....)))....... ( -2.40)
+>NewSSZNav-584
+AAUUUUACGACGAUUUUGAACCGU
+........................ (  0.00)
+>NewSSZNav-585
+CUAUCCAAUGUACUUGUCCAC
+..................... (  0.00)
+>NewSSZNav-586
+AGCUCACGAUCAUCUUAGAAAAGU
+........................ (  0.00)
+>NewSSZNav-587
+CCUCAUACAAUGACUCUGUUU
+..................... (  0.00)
+>NewSSZNav-588
+UUAAGGCUACCUUUUGGACAUAAG
+..((((...))))........... ( -0.90)
+>NewSSZNav-589
+GUUUGGACGGAGCGGUUCUGACUC
+(((.((((......)))).))).. ( -5.60)
+>NewSSZNav-590
+AAUUAAUUGCGUUGGCACUGGCCU
+.............(((....))). ( -3.70)
+>NewSSZNav-591
+AUUUUUUAUUUCUCGUUGGAUCCC
+........................ (  0.00)
+>NewSSZNav-592
+UUUCAUCGUCCAAUCAGAACGCGA
+.....((((...........)))) ( -0.60)
+>NewSSZNav-593
+GAAUCAUUAGAUCUAAUAAGGAUU
+.........(((((.....))))) ( -1.50)
+>NewSSZNav-594
+CUUCUGACUGCACCCCUGAAA
+..................... (  0.00)
+>NewSSZNav-595
+UUAGCCUUUGAAUUGUAAAACCUC
+........................ (  0.00)
+>NewSSZNav-596
+UCCUCUCCCCAUCUGAAGAGA
+..((((.(......).)))). ( -2.30)
+>NewSSZNav-597
+UAACCCGUGGACUAUGCAGGAUUG
+....((.((.......)))).... ( -1.40)
+>NewSSZNav-598
+UUCGGACCAGGCUUCAUACCCC
+...................... (  0.00)
+>NewSSZNav-599
+GUAGAAAUCCACCACAACACAACG
+........................ (  0.00)
+>NewSSZNav-600
+UAAGUCGAGAAUGUUCAUGUAAAU
+........................ (  0.00)
+>NewSSZNav-601
+UUUCUUGGUUCGGACCGAAGAAGC
+(((((((((....))).)))))). ( -5.30)
+>NewSSZNav-602
+UUUGAAACCUUGUAGAAUUUUGCC
+........................ (  0.00)
+>NewSSZNav-603
+AUUGAACUUAAUGAAAAUGACAAU
+........................ (  0.00)
+>NewSSZNav-604
+UUUUCUAUAUUGGUUAUCGGCGCC
+........................ (  0.00)
+>NewSSZNav-605
+AUGUCUGUGUUUGCUCAUUGG
+....(.(((......))).). ( -0.10)
+>NewSSZNav-606
+AUAAAUCUCUCGGAUCCAUCACUU
+........................ (  0.00)
+>NewSSZNav-607
+UAAAGAUUGGAAGAGAAGUUGAAG
+........................ (  0.00)
+>NewSSZNav-608
+AAAUAUUGUAGUCAGGACAUGAUU
+.........(((((.....))))) ( -1.70)
+>NewSSZNav-609
+CAAAACAUGACCGUUGGGAACC
+..........((....)).... ( -1.20)
+>NewSSZNav-610
+UUGUUCUUGGUUGUAUUUUUU
+..................... (  0.00)
+>NewSSZNav-611
+AUUGAUUACCAGACUCGUUGAAUC
+........................ (  0.00)
+>NewSSZNav-612
+AUUCUCCGGAGAAUGAGCCUC
+(((((....)))))....... ( -1.30)
+>NewSSZNav-613
+GUAGAAGCCCAAUCCAAUUAAAUU
+........................ (  0.00)
+>NewSSZNav-614
+CGAGGUACGCCGUGAAUUUUGACC
+((.((....)).)).......... ( -1.50)
+>NewSSZNav-615
+AAGGCUCGGACCAAGUUAAAAUAA
+..((......))............ ( -0.50)
+>NewSSZNav-616
+CCAACAAUUAUUGGGAAUUGU
+((((......))))....... ( -2.30)
+>NewSSZNav-617
+AUGACCUAGCCAGACCCGAUCAGA
+........................ (  0.00)
+>NewSSZNav-618
+CUGGGGAAGCAAGUAGAUUU
+.................... (  0.00)
+>NewSSZNav-619
+AAAACGAAAAUGAGAGGCUGAAGA
+........................ (  0.00)
+>NewSSZNav-620
+CUUCCCUCCCUUUUUCAGCAAC
+...................... (  0.00)
+>NewSSZNav-621
+AUUUCGAGAUCCUUUUUGAUAACC
+...((((((....))))))..... ( -2.90)
+>NewSSZNav-622
+CUUACGGAACAGUCAACUAAC
+..................... (  0.00)
+>NewSSZNav-623
+UUUAGUAGAAUCUGAGUAAACUCU
+(((((......)))))........ ( -1.30)
+>NewSSZNav-624
+UGAAUUAUAUAUGUUUGACGGACC
+........................ (  0.00)
+>NewSSZNav-625
+AACUCAUUCAGAACUUGAUGCACC
+........................ (  0.00)
+>NewSSZNav-626
+AUGGCUAGAGAAUGAGAGUUUCCC
+........................ (  0.00)
+>NewSSZNav-627
+AGUUAGAACCCGUUCAAUUCCAGU
+........................ (  0.00)
+>NewSSZNav-628
+GAAAAAGACUUUAAUAUCUCUGCC
+........................ (  0.00)
+>NewSSZNav-629
+CACGAAAGGAAUACGCGCGGAG
+..((...(.....)...))... ( -0.60)
+>NewSSZNav-630
+CAGUCAACAAACCCACUUGUU
+.....(((((......))))) ( -1.00)
+>NewSSZNav-631
+ACCAGACUCUAGCUUAAGAACUUU
+.......(((......)))..... ( -0.10)
+>NewSSZNav-632
+ACAAAGUAUUUGUGGCACCUUGAC
+(((((...)))))........... ( -0.40)
+>NewSSZNav-633
+AUAUCAGCUACAAGAUCUACGACU
+........................ (  0.00)
+>NewSSZNav-634
+CCAAGUCGUAGACCUCUGUAGGCC
+....(((.(((....)))..))). ( -2.10)
+>NewSSZNav-635
+GAGAGCCUCUGUAUCUUUAACCU
+(((...))).............. ( -0.30)
+>NewSSZNav-636
+UCGAGGCAUUUGUCUGAGAGGA
+((.((((....))))))..... ( -3.00)
+>NewSSZNav-637
+UUCUACGACAGUAUUCCAAGAACC
+...(((....)))........... ( -0.50)
+>NewSSZNav-638
+UGUCGGUGGACUGCUCGAGCUU
+.(((....)))........... ( -2.60)
+>NewSSZNav-639
+UCAAGGACUUUGUCUGAAGGGU
+......(((((......))))) ( -1.40)
+>NewSSZNav-640
+UAAAAAUAUGAUGUUGAAUGACU
+....................... (  0.00)
+>NewSSZNav-641
+CGGAAUGACAGGAUGAAAUGACA
+....................... (  0.00)
+>NewSSZNav-642
+GUUGUCGGGAGAUUGUGGCAGAGA
+.((((((........))))))... ( -4.00)
+>NewSSZNav-643
+CCAAUUUCUUCUGACGCUGGAA
+(((...((....))...))).. ( -2.00)
+>NewSSZNav-644
+CCCUAUACAUGAUCUUACGACUUU
+........................ (  0.00)
+>NewSSZNav-645
+UCACCGUGAUUGUCAAUAAUAGUG
+........................ (  0.00)
+>NewSSZNav-646
+CAAGGACGGGUAUCAAGUAACUAU
+........................ (  0.00)
+>NewSSZNav-647
+AAGUGUUUAUAUAGCUGGGUAGAC
+....((((((........)))))) ( -1.90)
+>NewSSZNav-648
+CUAUCGCGAUUGAUAACAUGCCU
+.((((......))))........ ( -1.40)
+>NewSSZNav-649
+UUUAAUAUCUAGACUUGUUGGCCC
+.((((((........))))))... ( -0.70)
+>NewSSZNav-650
+UUUAUUAAAAUAGUGUUGGGAUCC
+........................ (  0.00)
+>NewSSZNav-651
+UCGGGACGGAUUCGGACAGGUACC
+...(..((....))..)....... ( -2.30)
+>NewSSZNav-652
+ACUUUAAAGUGAUAGAAGGAUCCU
+........................ (  0.00)
+>NewSSZNav-653
+GUUGAUUUGUGAGGAUACAUGAAC
+(((.((.(((....))).)).))) ( -1.30)
+>NewSSZNav-654
+AUUCUUAAUACGGAUUGAUAAUCU
+...........(((((...))))) ( -0.40)
+>NewSSZNav-655
+UACUCAUCUGAUCUCAUCCCGAGU
+............(((.....))). ( -1.00)
+>NewSSZNav-656
+UCCAACCGAUGUAGAAUGUAGAGU
+........................ (  0.00)
+>NewSSZNav-657
+CGUUGAUUCGCACAAUUGGUCAU
+...(((((.........))))). ( -0.30)
+>NewSSZNav-658
+UUAGUCAGCACCGAUGUAGUAACC
+........................ (  0.00)
+>NewSSZNav-659
+CAAAAGGGUAAUGGCAUAGAC
+..................... (  0.00)
+>NewSSZNav-660
+AAUCCCUGUAAACAAGAACCCGAA
+........................ (  0.00)
+>NewSSZNav-661
+GAGAAGUCAAAAAAUCAGGAAUGU
+........................ (  0.00)
+>NewSSZNav-662
+CAAUCCUAUCCGGAAUUUCUCA
+...(((.....)))........ ( -1.70)
+>NewSSZNav-663
+UGCGAGUCAACGGGCGAGU
+.((..(((....)))..)) ( -1.40)
+>NewSSZNav-664
+UCUAUCCGAUGUGAGACUUCACCU
+..........((((....)))).. ( -2.40)
+>NewSSZNav-665
+AUUAAUGAAGAAGAUCUAAGGCCU
+........................ (  0.00)
+>NewSSZNav-666
+UCAUACCCACACAGCCUCUAGAUC
+........................ (  0.00)
+>NewSSZNav-667
+AUGUUUCAAUGGACUCAAAAUCUU
+........................ (  0.00)
+>NewSSZNav-668
+CGAAACUGGAGAUAAAUUGAGGGA
+.....((.((......)).))... ( -1.50)
+>NewSSZNav-669
+UUAAAACCAGUCUGUCAAUCAAUC
+........................ (  0.00)
+>NewSSZNav-670
+ACACUAAAGUUACUCUAAAUACU
+....................... (  0.00)
+>NewSSZNav-671
+UAUUGUCUCUAAACAUUUGACACU
+...((((...........)))).. ( -2.40)
+>NewSSZNav-672
+GAGAACUAACAACCACAAAGGCAC
+............((.....))... ( -0.20)
+>NewSSZNav-673
+UAUUGUAAACUCUCAAUACAGUCU
+(((((........)))))...... ( -1.50)
+>NewSSZNav-674
+CAUCCAAACAUACUCUGAAUGAGU
+...........((((.....)))) ( -2.80)
+>NewSSZNav-675
+AGUAGACUUAGUUAACAUCGGUUU
+........................ (  0.00)
+>NewSSZNav-676
+UUAAUUAAAUUGGAACAGCUC
+..................... (  0.00)
+>NewSSZNav-677
+UGAGGCUCGAGACAUCUACGU
+..................... (  0.00)
+>NewSSZNav-678
+AGAGAACUUUGACUAAUUUAAAAU
+........................ (  0.00)
+>NewSSZNav-679
+UUUAACAAAGAUAGACUAAGACUU
+........................ (  0.00)
+>NewSSZNav-680
+AUUCUGAAGCUGAAGCACUAGA
+..((((..((....))..)))) ( -1.70)
+>NewSSZNav-681
+AUGGACUUAGAUGAAAUCCAGCCU
+.((((.((.....)).)))).... ( -1.90)
+>NewSSZNav-682
+CAGAUGGGAUCAAAGAAUUCAG
+......((((......)))).. ( -0.10)
+>NewSSZNav-683
+UCAUCAGCGUGAGGGAAGAGUCGC
+........((((........)))) ( -2.20)
+>NewSSZNav-684
+UUCCAAACCAGGCAAGUCUGACUU
+........(((......))).... ( -1.80)
+>NewSSZNav-685
+AAAAUAGGGGAGGAGCUUGCCACC
+......((.(((...))).))... ( -4.20)
+>NewSSZNav-686
+CGGAAGUUGAUUCAUGUAGCC
+..(((.....)))........ ( -0.20)
+>NewSSZNav-687
+CAUCUGAGCAGCUGCUACCAUC
+......(((....)))...... ( -2.00)
+>NewSSZNav-688
+UAGUUAAAUUUAUGUGUUGUUGAU
+........................ (  0.00)
+>NewSSZNav-689
+UGAGGGAUGUCUGGAAUGUUCC
+...(((((((.....))))))) ( -3.30)
+>NewSSZNav-690
+GUGACUCUCGGCAACGGAUAUC
+.....((.((....)))).... ( -1.50)
+>NewSSZNav-691
+AAAUCAGACAAUGAACAAAUCCAU
+...(((.....))).......... ( -0.30)
+>NewSSZNav-692
+UGACCAUUGAUCUAGUGACUUGGU
+..((((..(.((....))).)))) ( -2.60)
+>NewSSZNav-693
+UUAGAAUAAACAUGUGUAUGGAUC
+........................ (  0.00)
+>NewSSZNav-694
+GCUUGACUCAACAAUUCUUGGAAU
+........................ (  0.00)
+>NewSSZNav-695
+UAGGAUCUUCUUCAUCAAUGAAUU
+..........((((....)))).. ( -0.20)
+>NewSSZNav-696
+AGGCACCACGUCUAUCUCGGUAUC
+((((.....))))........... ( -2.10)
+>NewSSZNav-697
+AAUCUUACAGAGACUCGACUCGCCU
+.........(((......))).... ( -1.60)
+>NewSSZNav-698
+GGAAUGACGGUGUCGGGUGAUUGC
+(.(((.((........)).))).) ( -3.20)
+>NewSSZNav-699
+AUGACAACCAAUCUCUCAGAAUGU
+........................ (  0.00)
+>NewSSZNav-700
+CGCAGACUGUAGACCCCGCAAGCC
+........................ (  0.00)
+>NewSSZNav-701
+UCAAUGUCUGUCAAAAAUUAACCU
+........................ (  0.00)
+>NewSSZNav-702
+GUCCUACUCAUUCUGAAUGCC
+..................... (  0.00)
+>NewSSZNav-703
+CACUCUGACACAAACCAAUAAGUU
+........................ (  0.00)
+>NewSSZNav-704
+AACACUGAUCUUCAUUAAAAGACG
+........((((......)))).. ( -0.30)
+>NewSSZNav-705
+AGAGGAUCAAGCUGGCCCUUG
+.((((.(((...))).)))). ( -3.20)
+>NewSSZNav-706
+CCGGCGACUCAUAGGCAGU
+...((.........))... ( -0.80)
+>NewSSZNav-707
+AAAUUACAUUAAUAAGAGGUACCG
+........................ (  0.00)
+>NewSSZNav-708
+CAAUUCCAGUAGGACUAACCAAA
+....(((....)))......... ( -1.80)
+>NewSSZNav-709
+UGAAAAUGGAUGACUAGUGCCU
+...................... (  0.00)
+>NewSSZNav-710
+GAGUCUAAACUCUUAGUUAGGGUC
+((.(((((........))))).)) ( -3.70)
+>NewSSZNav-711
+UUAUUGUUGCAAAGACUCUAACU
+....................... (  0.00)
+>NewSSZNav-712
+UUUCGAGGACUAAAAUUUGAAUU
+.((((((........)))))).. ( -2.40)
+>NewSSZNav-713
+UUAGAUAAGAUUAUUAUGGAUAAU
+........................ (  0.00)
+>NewSSZNav-714
+UGAGGCCGAGGUUGAUAGAUUCCU
+........(((..........))) ( -0.40)
+>NewSSZNav-715
+AACUAGAAAGAGACGUAGAAAUAA
+........................ (  0.00)
+>NewSSZNav-716
+CCCGCCACGUGGACAACAACUCGC
+.((((...))))............ ( -3.30)
+>NewSSZNav-717
+UAAUGGACUCAUGCUCUCGCUU
+............((....)).. ( -0.40)
+>NewSSZNav-718
+CUUCCAUAUGACUAGAUCUGUA
+...................... (  0.00)
+>NewSSZNav-719
+AAUUCUUCCCCUAUGUCUUGCC
+...................... (  0.00)
+>NewSSZNav-720
+CACCCCAAUAUUAUGUUUCAUG
+...................... (  0.00)
+>NewSSZNav-721
+UACCGUAUGAGAUUGUGGAACAUC
+..(((((......)))))...... ( -1.30)
+>NewSSZNav-722
+CACAGAUUCGAGACCUGCAUGGGC
+.............((.....)).. ( -1.30)
+>NewSSZNav-723
+UUUUUAAAAGCUUAGCAUGACCUG
+........................ (  0.00)
+>NewSSZNav-724
+UGUCCGGGUGUUCAACAUGUGUCC
+....((.((((...)))).))... ( -2.90)
+>NewSSZNav-725
+CCCGGGUGGAGAAGGAUGAAGGCC
+.((....))............... ( -0.70)
+>NewSSZNav-726
+CUAAUGAGAUAAGGCUUUGUCGUU
+..(((((.(........).))))) ( -2.20)
+>NewSSZNav-727
+ACAUCGGUUCUGUAGAAAAAUCGA
+...((((((.(.....).)))))) ( -2.30)
+>NewSSZNav-728
+UCACUUAAAAGACAUGUAAAUCGCC
+......................... (  0.00)
+>NewSSZNav-729
+CUCUUUGGACUUGGUGCGUGAUCC
+.((..((.((...)).)).))... ( -0.10)
+>NewSSZNav-730
+AUUUGAUUAAUGUCUGGACACCCA
+....(((....)))(((....))) ( -1.20)
+>NewSSZNav-731
+AGAACGACAGUAGCAGUGAUUAUA
+........................ (  0.00)
+>NewSSZNav-732
+CUAGGCGUAGAGGAACCA
+.................. (  0.00)
+>NewSSZNav-733
+CCUGUGUUGCACGCUGAGCGAGAC
+...((.((((.......)))).)) ( -4.50)
+>NewSSZNav-734
+UUUGGGACUUCGAGUGUUGAAACU
+(((((.(((...))).)))))... ( -1.80)
+>NewSSZNav-735
+CAUGUAUCGAACACUGGACACA
+..(((.((........)).))) ( -1.50)
+>NewSSZNav-736
+AAAGGACUACAACGCUCAAACAAG
+........................ (  0.00)
+>NewSSZNav-737
+CACAUAGAACUGCACCCGCCGG
+.........(.((....)).). ( -0.40)
+>NewSSZNav-738
+UCCCAUGCAUAUGUGUCACAUU
+...................... (  0.00)
+>NewSSZNav-739
+UUUGCCUAGUAGAAAAUUGAGAA
+(((((...))))).......... ( -0.30)
+>NewSSZNav-740
+CGCUCAAGGCUACCUGCCUAG
+......((((.....)))).. ( -5.70)
+>NewSSZNav-741
+GCGGCGAGCGAGAGCGGAU
+.(.((........)).).. ( -2.90)
+>NewSSZNav-742
+AUUGUCGUGACUACUAUUUGUCA
+.......((((........)))) ( -3.00)
+>NewSSZNav-743
+CCCUGCCGAAUCAACUAGCCCCG
+....................... (  0.00)
+>NewSSZNav-744
+CAACUGUGAAGAGUUCUUUGAUGU
+.((((......))))......... ( -1.40)
+>NewSSZNav-745
+CAAUCAAUUACUAUAUUCCUUCU
+....................... (  0.00)
+>NewSSZNav-746
+CAAGAUUAUCAGACUCACGAGUC
+...........((((....)))) ( -1.50)
+>NewSSZNav-747
+GCCCGGAUGCGUAUGUGACUGAUU
+...(((..((....))..)))... ( -1.30)
+>NewSSZNav-748
+AAUUCUAAAAGGUACACAUGACUU
+........................ (  0.00)
+>NewSSZNav-749
+AGCUCCGUUGUGUUCAUCUGAAUG
+...........((((....)))). ( -0.90)
+>NewSSZNav-750
+UAGAAACAGAAAAAUUGAAC
+.................... (  0.00)
+>NewSSZNav-751
+UAGAGGAUUCUUGAACACAAGGGA
+........(((((....))))).. ( -2.60)
+>NewSSZNav-752
+CUGAAUUCAAUGGGAUGUUGCC
+....((((....))))...... ( -0.30)
+>NewSSZNav-753
+CAUGACCGGGUGUAUCAAGCUCCUG
+......((((.((.....)).)))) ( -4.50)
+>NewSSZNav-754
+AAUCAUCUUAUGAAUGCAUCGUCU
+........................ (  0.00)
+>NewSSZNav-755
+CUUGAGAGACUCAAACACAAAGGG
+.(((((...))))).......... ( -2.60)
+>NewSSZNav-756
+AAAGUCGUUUCAGAAUAGAAUGCU
+..((.(((((.......))))))) ( -0.70)
+>NewSSZNav-757
+GGUCUGCUGCCAAUGCGAACGGAC
+.(((((.(((....)))..))))) ( -5.10)
+>NewSSZNav-758
+AGAGAAGAAACUGAAGCGGUGGCA
+......(..((((...))))..). ( -2.10)
+>NewSSZNav-759
+CGUUUUGAGAGUUGUGUUAAC
+..................... (  0.00)
+>NewSSZNav-760
+UAUAAUAAAUUUUGUGACAAUU
+(((((......)))))...... ( -0.40)
+>NewSSZNav-761
+AAUCCAAUUAAGACUGCACAGAAU
+........................ (  0.00)
+>NewSSZNav-762
+UAUUUGUAUGCUGAAAUUGUU
+..................... (  0.00)
+>NewSSZNav-763
+UUAAAAACCGUCUUAGAAAAUAGU
+........................ (  0.00)
+>NewSSZNav-764
+AGCUAAAACAGAUUCUAGACAC
+...................... (  0.00)
+>NewSSZNav-765
+UCCAAGAGUGUAUUAUGUAAGAAU
+........................ (  0.00)
+>NewSSZNav-766
+GAAAAUGUAGACUUAUGUACU
+......(((........))). ( -0.30)
+>NewSSZNav-767
+AUUCCGUAGGUCAUUGUGUAUGUA
+....((((.(......).)))).. ( -0.50)
+>NewSSZNav-768
+CUUUUGAGGAUAGGUUUUGCC
+............(((...))) ( -0.10)
