@@ -274,7 +274,7 @@ class ReadFile:
         logging.info("len-set: %s", len(l))
         protainIds = []
 
-        outfile = open('Script/ssz1Protauns.txt', 'w')
+        outfile = open('Script/Protauns.txt', 'w')
         for line in open(sequence):
             if line[0:5] == ">lcl|":
                 if line.split(" ")[0][1:] in l:
